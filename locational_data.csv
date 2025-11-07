@@ -1,0 +1,2239 @@
+state,district,label,modal_price
+Andaman and Nicobar,South Andaman,amaranthus,7000
+Andaman and Nicobar,South Andaman,banana - green,5000
+Andaman and Nicobar,South Andaman,bhindi(ladies finger),7000
+Andaman and Nicobar,South Andaman,bitter gourd,7000
+Andaman and Nicobar,South Andaman,black pepper,120000
+Andaman and Nicobar,South Andaman,bottle gourd,3500
+Andaman and Nicobar,South Andaman,brinjal,7500
+Andaman and Nicobar,South Andaman,cabbage,6500
+Andaman and Nicobar,South Andaman,carrot,10000
+Andaman and Nicobar,South Andaman,cauliflower,11000
+Andaman and Nicobar,South Andaman,cluster beans,9000
+Andaman and Nicobar,South Andaman,coconut,5600
+Andaman and Nicobar,South Andaman,colacasia,6000
+Andaman and Nicobar,South Andaman,onion,3000
+Andaman and Nicobar,South Andaman,potato,3000
+Andhra Pradesh,Chittor,tomato,620
+Andhra Pradesh,Chittor,tomato,300
+Andhra Pradesh,Chittor,tomato,760
+Andhra Pradesh,Kurnool,bengal gram(gram)(whole),4600
+Andhra Pradesh,Kurnool,jowar(sorghum),1900
+Andhra Pradesh,Kurnool,paddy(dhan)(common),1950
+Andhra Pradesh,West Godavari,paddy(dhan)(common),1760
+Assam,Cachar,lentil (masur)(whole),7000
+Assam,Cachar,rice,2400
+Assam,Cachar,rice,2800
+Assam,Darrang,bitter gourd,6400
+Assam,Darrang,bottle gourd,850
+Assam,Darrang,brinjal,850
+Assam,Darrang,cabbage,350
+Assam,Darrang,carrot,1050
+Assam,Darrang,cauliflower,1450
+Assam,Darrang,cluster beans,4100
+Assam,Darrang,cucumbar(kheera),1550
+Assam,Darrang,field pea,2900
+Assam,Darrang,french beans (frasbean),2250
+Assam,Darrang,green chilli,3600
+Assam,Darrang,knool khol,950
+Assam,Darrang,potato,650
+Assam,Darrang,pumpkin,650
+Assam,Darrang,raddish,850
+Assam,Darrang,tomato,1150
+Assam,Dhubri,black gram (urd beans)(whole),4400
+Assam,Dhubri,green gram (moong)(whole),6400
+Assam,Dhubri,jute,2800
+Assam,Dhubri,maida atta,2370
+Assam,Dhubri,mustard,2400
+Assam,Dhubri,rice,4500
+Assam,Dhubri,rice,2500
+Assam,Dhubri,wheat atta,2300
+Assam,Jorhat,garlic,5000
+Assam,Jorhat,green gram (moong)(whole),6600
+Assam,Jorhat,masur dal,6200
+Assam,Jorhat,onion,1200
+Assam,Jorhat,potato,550
+Assam,Jorhat,rice,3200
+Assam,Jorhat,wheat atta,2800
+Assam,Kamrup,bitter gourd,5500
+Assam,Kamrup,brinjal,1300
+Assam,Kamrup,cabbage,500
+Assam,Kamrup,carrot,1000
+Assam,Kamrup,cauliflower,1900
+Assam,Kamrup,cucumbar(kheera),2000
+Assam,Kamrup,garlic,4500
+Assam,Kamrup,green chilli,1600
+Assam,Kamrup,onion,1100
+Assam,Kamrup,potato,700
+Assam,Kamrup,pumpkin,900
+Assam,Kamrup,raddish,1100
+Assam,Kamrup,ridgeguard(tori),4100
+Assam,Kamrup,tomato,1450
+Assam,Sonitpur,arecanut(betelnut/supari),2200
+Assam,Sonitpur,arhar (tur/red gram)(whole),5850
+Assam,Sonitpur,brinjal,750
+Assam,Sonitpur,cabbage,700
+Assam,Sonitpur,green chilli,2000
+Assam,Sonitpur,jute,3900
+Assam,Sonitpur,maize,1800
+Assam,Sonitpur,mustard,4100
+Assam,Sonitpur,rice,2400
+Assam,Sonitpur,rice,2800
+Chattisgarh,Bastar,dry chillies,4200
+Chattisgarh,Kanker,paddy(dhan)(common),1500
+Chattisgarh,Kanker,paddy(dhan)(common),1500
+Chattisgarh,Kanker,paddy(dhan)(common),1500
+Chattisgarh,Surajpur,groundnut,4900
+Goa,North Goa,arecanut(betelnut/supari),19500
+Goa,North Goa,arecanut(betelnut/supari),22250
+Goa,North Goa,arecanut(betelnut/supari),20500
+Gujarat,Amreli,bhindi(ladies finger),1550
+Gujarat,Amreli,brinjal,1100
+Gujarat,Amreli,capsicum,1300
+Gujarat,Amreli,guar,1600
+Gujarat,Amreli,lemon,1300
+Gujarat,Anand,bajra(pearl millet/cumbu),2080
+Gujarat,Anand,bajra(pearl millet/cumbu),2015
+Gujarat,Anand,castor seed,4870
+Gujarat,Bharuch,bhindi(ladies finger),3425
+Gujarat,Bharuch,bottle gourd,1850
+Gujarat,Bharuch,brinjal,650
+Gujarat,Bharuch,cabbage,925
+Gujarat,Bharuch,capsicum,2600
+Gujarat,Bharuch,carrot,825
+Gujarat,Bharuch,cauliflower,1100
+Gujarat,Bharuch,coriander(leaves),825
+Gujarat,Bharuch,cowpea(veg),3425
+Gujarat,Bharuch,cucumbar(kheera),2175
+Gujarat,Bharuch,drumstick,3475
+Gujarat,Bharuch,elephant yam (suran),2825
+Gujarat,Bharuch,ginger(green),6100
+Gujarat,Bharuch,green chilli,3000
+Gujarat,Bharuch,indian beans (seam),1450
+Gujarat,Bharuch,lemon,3700
+Gujarat,Bharuch,methi(leaves),825
+Gujarat,Bharuch,onion green,1225
+Gujarat,Bharuch,peas cod,1325
+Gujarat,Bharuch,pegeon pea (arhar fali),3475
+Gujarat,Bharuch,sponge gourd,1500
+Gujarat,Bharuch,surat beans (papadi),2450
+Gujarat,Bharuch,sweet potato,2900
+Gujarat,Bharuch,tinda,3150
+Gujarat,Bharuch,tomato,1425
+Gujarat,Kachchh,guar seed(cluster beans seed),4010
+Gujarat,Kheda,potato,700
+Gujarat,Kheda,sweet potato,1450
+Gujarat,Panchmahals,arhar (tur/red gram)(whole),4850
+Gujarat,Panchmahals,cotton,4550
+Gujarat,Panchmahals,maize,1900
+Gujarat,Panchmahals,paddy(dhan)(common),1525
+Gujarat,Panchmahals,wheat,1900
+Gujarat,Panchmahals,bajra(pearl millet/cumbu),1800
+Gujarat,Panchmahals,maize,1850
+Gujarat,Panchmahals,paddy(dhan)(common),1425
+Gujarat,Surat,brinjal,1150
+Gujarat,Surat,cabbage,1100
+Gujarat,Surat,tomato,1300
+Gujarat,Surat,bhindi(ladies finger),3755
+Gujarat,Surat,brinjal,1182
+Gujarat,Surat,cowpea(veg),2927
+Gujarat,Surat,paddy(dhan)(common),1475
+Gujarat,Surat,pegeon pea (arhar fali),3005
+Gujarat,Surat,surat beans (papadi),3147
+Gujarat,Surat,tomato,1387
+Gujarat,Surat,bhindi(ladies finger),3755
+Gujarat,Surat,brinjal,1182
+Gujarat,Surat,cowpea(veg),2927
+Gujarat,Surat,paddy(dhan)(common),1475
+Gujarat,Surat,pegeon pea (arhar fali),3005
+Gujarat,Surat,surat beans (papadi),3147
+Gujarat,Surat,tomato,1387
+Gujarat,Surat,bitter gourd,5025
+Gujarat,Surat,bottle gourd,1050
+Gujarat,Surat,brinjal,650
+Gujarat,Surat,cabbage,950
+Gujarat,Surat,cauliflower,2250
+Gujarat,Surat,cucumbar(kheera),2500
+Gujarat,Surat,gram raw(chholia),2000
+Gujarat,Surat,guar,5200
+Gujarat,Surat,little gourd (kundru),3350
+Gujarat,Surat,paddy(dhan)(common),1697
+Gujarat,Surat,pegeon pea (arhar fali),2850
+Gujarat,Surat,ridgeguard(tori),2750
+Gujarat,Surat,round gourd,1400
+Gujarat,Surat,tomato,1300
+Gujarat,Vadodara(Baroda),cotton,5400
+Gujarat,Vadodara(Baroda),cotton,5400
+Gujarat,Vadodara(Baroda),cotton,5400
+Gujarat,Vadodara(Baroda),cotton,5400
+Gujarat,Vadodara(Baroda),bhindi(ladies finger),3800
+Gujarat,Vadodara(Baroda),bitter gourd,3800
+Gujarat,Vadodara(Baroda),bottle gourd,1750
+Gujarat,Vadodara(Baroda),brinjal,750
+Gujarat,Vadodara(Baroda),carrot,850
+Gujarat,Vadodara(Baroda),cauliflower,1250
+Gujarat,Vadodara(Baroda),coriander(leaves),3000
+Gujarat,Vadodara(Baroda),cowpea(veg),3300
+Gujarat,Vadodara(Baroda),cucumbar(kheera),1750
+Gujarat,Vadodara(Baroda),drumstick,1400
+Gujarat,Vadodara(Baroda),elephant yam (suran),1650
+Gujarat,Vadodara(Baroda),ginger(green),6300
+Gujarat,Vadodara(Baroda),green chilli,3000
+Gujarat,Vadodara(Baroda),indian beans (seam),2100
+Gujarat,Vadodara(Baroda),leafy vegetable,750
+Gujarat,Vadodara(Baroda),lemon,4150
+Gujarat,Vadodara(Baroda),methi(leaves),850
+Gujarat,Vadodara(Baroda),mint(pudina),1300
+Gujarat,Vadodara(Baroda),onion,600
+Gujarat,Vadodara(Baroda),papaya (raw),850
+Gujarat,Vadodara(Baroda),peas cod,1600
+Gujarat,Vadodara(Baroda),pegeon pea (arhar fali),3000
+Gujarat,Vadodara(Baroda),potato,700
+Gujarat,Vadodara(Baroda),pumpkin,950
+Gujarat,Vadodara(Baroda),raddish,850
+Gujarat,Vadodara(Baroda),spinach,475
+Gujarat,Vadodara(Baroda),sponge gourd,1950
+Gujarat,Vadodara(Baroda),surat beans (papadi),2500
+Gujarat,Vadodara(Baroda),sweet potato,1700
+Gujarat,Vadodara(Baroda),tomato,1350
+Gujarat,Valsad,bitter gourd,5875
+Gujarat,Valsad,bottle gourd,1375
+Gujarat,Valsad,pointed gourd (parval),5250
+Gujarat,Valsad,tinda,2875
+Haryana,Ambala,banana,3000
+Haryana,Ambala,ber(zizyphus/borehannu),3000
+Haryana,Ambala,carrot,700
+Haryana,Ambala,coriander(leaves),1805
+Haryana,Ambala,garlic,3000
+Haryana,Ambala,ginger(green),8000
+Haryana,Ambala,grapes,4000
+Haryana,Ambala,green chilli,5000
+Haryana,Ambala,kinnow,1500
+Haryana,Ambala,leafy vegetable,1000
+Haryana,Ambala,methi(leaves),1410
+Haryana,Ambala,peas wet,1200
+Haryana,Ambala,potato,325
+Haryana,Ambala,raddish,600
+Haryana,Ambala,spinach,715
+Haryana,Faridabad,apple,5000
+Haryana,Faridabad,cabbage,450
+Haryana,Faridabad,carrot,450
+Haryana,Faridabad,cauliflower,2000
+Haryana,Faridabad,grapes,4000
+Haryana,Faridabad,green chilli,2900
+Haryana,Faridabad,kinnow,1250
+Haryana,Faridabad,orange,2000
+Haryana,Faridabad,peas wet,900
+Haryana,Faridabad,pomegranate,4500
+Haryana,Faridabad,potato,550
+Haryana,Faridabad,raddish,900
+Haryana,Faridabad,tomato,1750
+Haryana,Gurgaon,banana,3000
+Haryana,Gurgaon,bottle gourd,2700
+Haryana,Gurgaon,cabbage,550
+Haryana,Gurgaon,carrot,400
+Haryana,Gurgaon,cauliflower,1450
+Haryana,Gurgaon,cucumbar(kheera),1400
+Haryana,Gurgaon,grapes,3500
+Haryana,Gurgaon,onion,1000
+Haryana,Gurgaon,orange,2200
+Haryana,Gurgaon,papaya,1650
+Haryana,Gurgaon,peas wet,1500
+Haryana,Gurgaon,pomegranate,4250
+Haryana,Gurgaon,potato,650
+Haryana,Gurgaon,raddish,750
+Haryana,Gurgaon,spinach,750
+Haryana,Gurgaon,tinda,1550
+Haryana,Gurgaon,tomato,1500
+Haryana,Kurukshetra,potato,296
+Haryana,Mewat,apple,8000
+Haryana,Mewat,banana,2000
+Haryana,Mewat,ber(zizyphus/borehannu),1300
+Haryana,Mewat,bhindi(ladies finger),6000
+Haryana,Mewat,carrot,700
+Haryana,Mewat,chikoos(sapota),3500
+Haryana,Mewat,cucumbar(kheera),3000
+Haryana,Mewat,ginger(green),9000
+Haryana,Mewat,grapes,3000
+Haryana,Mewat,kinnow,1500
+Haryana,Mewat,orange,3000
+Haryana,Mewat,pomegranate,5000
+Haryana,Mewat,potato,700
+Haryana,Mewat,raddish,800
+Haryana,Mewat,tomato,1500
+Haryana,Panipat,cauliflower,800
+Haryana,Panipat,onion,1500
+Haryana,Panipat,potato,1000
+Haryana,Panipat,tomato,1500
+Himachal Pradesh,Kangra,apple,7500
+Himachal Pradesh,Kangra,bottle gourd,2800
+Himachal Pradesh,Kangra,brinjal,2500
+Himachal Pradesh,Kangra,cabbage,800
+Himachal Pradesh,Kangra,capsicum,4800
+Himachal Pradesh,Kangra,carrot,1000
+Himachal Pradesh,Kangra,cauliflower,1000
+Himachal Pradesh,Kangra,coriander(leaves),2500
+Himachal Pradesh,Kangra,kinnow,2200
+Himachal Pradesh,Kangra,peas wet,1800
+Himachal Pradesh,Kangra,pomegranate,7500
+Himachal Pradesh,Kangra,potato,800
+Himachal Pradesh,Kangra,raddish,600
+Himachal Pradesh,Kangra,spinach,1500
+Himachal Pradesh,Kangra,tomato,2000
+Himachal Pradesh,Kangra,apple,5000
+Himachal Pradesh,Kangra,banana,2400
+Himachal Pradesh,Kangra,bhindi(ladies finger),4250
+Himachal Pradesh,Kangra,bottle gourd,2250
+Himachal Pradesh,Kangra,brinjal,1350
+Himachal Pradesh,Kangra,cabbage,450
+Himachal Pradesh,Kangra,capsicum,4250
+Himachal Pradesh,Kangra,carrot,650
+Himachal Pradesh,Kangra,cauliflower,1350
+Himachal Pradesh,Kangra,coriander(leaves),1350
+Himachal Pradesh,Kangra,french beans (frasbean),3900
+Himachal Pradesh,Kangra,ginger(green),8750
+Himachal Pradesh,Kangra,grapes,4250
+Himachal Pradesh,Kangra,green chilli,6250
+Himachal Pradesh,Kangra,kinnow,1600
+Himachal Pradesh,Kangra,lemon,3900
+Himachal Pradesh,Kangra,mashrooms,9500
+Himachal Pradesh,Kangra,methi(leaves),950
+Himachal Pradesh,Kangra,mousambi(sweet lime),3750
+Himachal Pradesh,Kangra,onion,750
+Himachal Pradesh,Kangra,orange,3250
+Himachal Pradesh,Kangra,papaya,2250
+Himachal Pradesh,Kangra,peas cod,1650
+Himachal Pradesh,Kangra,pineapple,2250
+Himachal Pradesh,Kangra,pomegranate,4250
+Himachal Pradesh,Kangra,potato,750
+Himachal Pradesh,Kangra,raddish,550
+Himachal Pradesh,Kangra,spinach,950
+Himachal Pradesh,Kangra,tomato,2350
+Himachal Pradesh,Kangra,apple,8000
+Himachal Pradesh,Kangra,ber(zizyphus/borehannu),2500
+Himachal Pradesh,Kangra,bhindi(ladies finger),6500
+Himachal Pradesh,Kangra,bottle gourd,3000
+Himachal Pradesh,Kangra,brinjal,2500
+Himachal Pradesh,Kangra,cabbage,900
+Himachal Pradesh,Kangra,capsicum,4500
+Himachal Pradesh,Kangra,carrot,900
+Himachal Pradesh,Kangra,cauliflower,1100
+Himachal Pradesh,Kangra,cucumbar(kheera),5500
+Himachal Pradesh,Kangra,french beans (frasbean),5500
+Himachal Pradesh,Kangra,ginger(green),9000
+Himachal Pradesh,Kangra,grapes,7000
+Himachal Pradesh,Kangra,green chilli,5000
+Himachal Pradesh,Kangra,guava,4500
+Himachal Pradesh,Kangra,kinnow,2200
+Himachal Pradesh,Kangra,lemon,5500
+Himachal Pradesh,Kangra,mashrooms,20000
+Himachal Pradesh,Kangra,mousambi(sweet lime),5500
+Himachal Pradesh,Kangra,onion,1100
+Himachal Pradesh,Kangra,orange,4500
+Himachal Pradesh,Kangra,papaya,2500
+Himachal Pradesh,Kangra,peas wet,1800
+Himachal Pradesh,Kangra,pineapple,4000
+Himachal Pradesh,Kangra,pomegranate,7500
+Himachal Pradesh,Kangra,potato,800
+Himachal Pradesh,Kangra,pumpkin,1700
+Himachal Pradesh,Kangra,raddish,800
+Himachal Pradesh,Kangra,spinach,1700
+Himachal Pradesh,Kangra,tomato,2200
+Himachal Pradesh,Kangra,turnip,1200
+Himachal Pradesh,Kullu,banana,2370
+Himachal Pradesh,Kullu,bhindi(ladies finger),5650
+Himachal Pradesh,Kullu,bottle gourd,2600
+Himachal Pradesh,Kullu,brinjal,2500
+Himachal Pradesh,Kullu,cabbage,900
+Himachal Pradesh,Kullu,capsicum,5650
+Himachal Pradesh,Kullu,carrot,1150
+Himachal Pradesh,Kullu,cauliflower,1650
+Himachal Pradesh,Kullu,coriander(leaves),1300
+Himachal Pradesh,Kullu,cucumbar(kheera),4800
+Himachal Pradesh,Kullu,french beans (frasbean),5250
+Himachal Pradesh,Kullu,garlic,5300
+Himachal Pradesh,Kullu,ginger(dry),9800
+Himachal Pradesh,Kullu,grapes,7500
+Himachal Pradesh,Kullu,green chilli,6300
+Himachal Pradesh,Kullu,guava,6150
+Himachal Pradesh,Kullu,kinnow,2650
+Himachal Pradesh,Kullu,lemon,6500
+Himachal Pradesh,Kullu,onion,1250
+Himachal Pradesh,Kullu,papaya,2900
+Himachal Pradesh,Kullu,peas wet,2650
+Himachal Pradesh,Kullu,potato,1400
+Himachal Pradesh,Kullu,pumpkin,1750
+Himachal Pradesh,Kullu,raddish,700
+Himachal Pradesh,Kullu,spinach,900
+Himachal Pradesh,Kullu,squash(chappal kadoo),1900
+Himachal Pradesh,Kullu,tomato,2550
+Jammu and Kashmir,Badgam,cauliflower,800
+Jammu and Kashmir,Badgam,cucumbar(kheera),1600
+Jammu and Kashmir,Badgam,knool khol,1250
+Karnataka,Bangalore,beans,3600
+Karnataka,Bangalore,beetroot,1600
+Karnataka,Bangalore,bhindi(ladies finger),3400
+Karnataka,Bangalore,bitter gourd,3800
+Karnataka,Bangalore,brinjal,1300
+Karnataka,Bangalore,cabbage,1400
+Karnataka,Bangalore,carrot,1600
+Karnataka,Bangalore,chilly capsicum,5500
+Karnataka,Bangalore,cucumbar(kheera),1750
+Karnataka,Bangalore,drumstick,2900
+Karnataka,Bangalore,ginger(green),5500
+Karnataka,Bangalore,green avare (w),2900
+Karnataka,Bangalore,green chilli,3800
+Karnataka,Bangalore,knool khol,1800
+Karnataka,Bangalore,papaya,1300
+Karnataka,Bangalore,peas wet,3000
+Karnataka,Bangalore,raddish,1800
+Karnataka,Bangalore,ridgeguard(tori),3600
+Karnataka,Bangalore,seemebadnekai,1500
+Karnataka,Bangalore,snakeguard,1400
+Karnataka,Bangalore,suvarna gadde,2500
+Karnataka,Bangalore,tomato,900
+Karnataka,Bangalore,water melon,1400
+Karnataka,Kolar,beans,3100
+Karnataka,Kolar,beetroot,1400
+Karnataka,Kolar,cabbage,1100
+Karnataka,Kolar,capsicum,3800
+Karnataka,Kolar,carrot,1200
+Karnataka,Kolar,cauliflower,1200
+Karnataka,Kolar,chilly capsicum,3000
+Karnataka,Kolar,knool khol,1000
+Karnataka,Kolar,raddish,400
+Karnataka,Kolar,ridgeguard(tori),3800
+Karnataka,Kolar,tomato,1000
+Karnataka,Kolar,tomato,667
+Karnataka,Tumkur,copra,9000
+Kerala,Alappuzha,amphophalus,1900
+Kerala,Alappuzha,apple,11000
+Kerala,Alappuzha,ashgourd,1100
+Kerala,Alappuzha,banana,4300
+Kerala,Alappuzha,banana,2900
+Kerala,Alappuzha,banana,2100
+Kerala,Alappuzha,banana - green,4100
+Kerala,Alappuzha,amphophalus,2400
+Kerala,Alappuzha,ashgourd,1200
+Kerala,Alappuzha,banana - green,3800
+Kerala,Alappuzha,beetroot,2000
+Kerala,Alappuzha,bhindi(ladies finger),4000
+Kerala,Alappuzha,bitter gourd,4500
+Kerala,Alappuzha,bottle gourd,1100
+Kerala,Alappuzha,capsicum,6000
+Kerala,Alappuzha,carrot,3600
+Kerala,Alappuzha,cowpea(veg),4200
+Kerala,Alappuzha,cucumbar(kheera),2000
+Kerala,Alappuzha,amphophalus,3600
+Kerala,Alappuzha,ashgourd,1100
+Kerala,Alappuzha,banana - green,4100
+Kerala,Alappuzha,bhindi(ladies finger),3100
+Kerala,Alappuzha,bitter gourd,4100
+Kerala,Alappuzha,brinjal,3500
+Kerala,Alappuzha,cabbage,3200
+Kerala,Alappuzha,capsicum,8200
+Kerala,Alappuzha,carrot,3800
+Kerala,Ernakulam,amaranthus,1800
+Kerala,Ernakulam,amphophalus,2500
+Kerala,Ernakulam,ashgourd,1800
+Kerala,Ernakulam,banana - green,3500
+Kerala,Ernakulam,beetroot,2200
+Kerala,Ernakulam,bitter gourd,4500
+Kerala,Ernakulam,brinjal,2200
+Kerala,Ernakulam,cowpea(veg),4500
+Kerala,Ernakulam,potato,2500
+Kerala,Ernakulam,tomato,1800
+Kerala,Kannur,arecanut(betelnut/supari),19750
+Kerala,Kannur,black pepper,29250
+Kerala,Kannur,coconut,3300
+Kerala,Kannur,coconut oil,18150
+Kerala,Kannur,copra,10250
+Kerala,Kannur,rubber,12350
+Kerala,Kasargod,amaranthus,1550
+Kerala,Kasargod,arecanut(betelnut/supari),21500
+Kerala,Kasargod,banana,2250
+Kerala,Kasargod,banana,3050
+Kerala,Kasargod,bhindi(ladies finger),5550
+Kerala,Kasargod,cashewnuts,10100
+Kerala,Kasargod,copra,10300
+Kerala,Kasargod,cowpea(veg),2100
+Kerala,Kasargod,cucumbar(kheera),1100
+Kerala,Kasargod,paddy(dhan)(common),1850
+Kerala,Kasargod,pepper garbled,32500
+Kerala,Kasargod,pumpkin,850
+Kerala,Kasargod,amaranthus,2900
+Kerala,Kasargod,arecanut(betelnut/supari),21750
+Kerala,Kasargod,ashgourd,2700
+Kerala,Kasargod,banana - green,4600
+Kerala,Kasargod,beetroot,2600
+Kerala,Kasargod,bhindi(ladies finger),6500
+Kerala,Kasargod,bitter gourd,5750
+Kerala,Kasargod,bottle gourd,1800
+Kerala,Kasargod,brinjal,3600
+Kerala,Kasargod,cabbage,2500
+Kerala,Kasargod,carrot,2700
+Kerala,Kasargod,coconut seed,3450
+Kerala,Kasargod,copra,10100
+Kerala,Kasargod,cowpea(veg),5000
+Kerala,Kasargod,cucumbar(kheera),2700
+Kerala,Kasargod,drumstick,6000
+Kerala,Kasargod,ginger(green),8500
+Kerala,Kasargod,green chilli,5000
+Kerala,Kasargod,indian beans (seam),4600
+Kerala,Kasargod,little gourd (kundru),4600
+Kerala,Kasargod,long melon(kakri),2700
+Kerala,Kasargod,pepper garbled,27750
+Kerala,Kasargod,potato,2400
+Kerala,Kasargod,pumpkin,2700
+Kerala,Kasargod,ridgeguard(tori),5000
+Kerala,Kasargod,snakeguard,3600
+Kerala,Kasargod,sweet potato,3000
+Kerala,Kasargod,tapioca,2900
+Kerala,Kasargod,tomato,1800
+Kerala,Kollam,amaranthus,4600
+Kerala,Kollam,ashgourd,5700
+Kerala,Kollam,banana,6100
+Kerala,Kollam,banana,2700
+Kerala,Kollam,banana,5900
+Kerala,Kollam,banana,4800
+Kerala,Kollam,banana,2400
+Kerala,Kollam,beetroot,3200
+Kerala,Kollam,bhindi(ladies finger),3800
+Kerala,Kollam,bitter gourd,6100
+Kerala,Kollam,bottle gourd,1300
+Kerala,Kollam,cabbage,1600
+Kerala,Kollam,carrot,5600
+Kerala,Kollam,cauliflower,3600
+Kerala,Kollam,colacasia,4100
+Kerala,Kollam,drumstick,3500
+Kerala,Kollam,potato,1900
+Kerala,Kollam,pumpkin,1100
+Kerala,Kollam,snakeguard,2300
+Kerala,Kollam,banana,4200
+Kerala,Kollam,banana,2000
+Kerala,Kollam,banana,4500
+Kerala,Kollam,banana,4500
+Kerala,Kollam,bhindi(ladies finger),5000
+Kerala,Kollam,brinjal,3500
+Kerala,Kollam,ginger(green),7000
+Kerala,Kollam,little gourd (kundru),4000
+Kerala,Kollam,tomato,3500
+Kerala,Kollam,amaranthus,1400
+Kerala,Kollam,banana - green,5800
+Kerala,Kollam,bhindi(ladies finger),4200
+Kerala,Kollam,bitter gourd,9800
+Kerala,Kollam,cucumbar(kheera),3800
+Kerala,Kollam,elephant yam (suran),3200
+Kerala,Kollam,ginger(green),8800
+Kerala,Kollam,snakeguard,1800
+Kerala,Kollam,tapioca,2450
+Kerala,Kollam,turmeric (raw),2100
+Kerala,Kottayam,ashgourd,1400
+Kerala,Kottayam,banana,3800
+Kerala,Kottayam,banana - green,2100
+Kerala,Kottayam,beetroot,2200
+Kerala,Kottayam,bhindi(ladies finger),2700
+Kerala,Kottayam,bitter gourd,3400
+Kerala,Kottayam,brinjal,2300
+Kerala,Kottayam,cabbage,2100
+Kerala,Kottayam,carrot,2600
+Kerala,Kottayam,cluster beans,3400
+Kerala,Kottayam,coconut,3600
+Kerala,Kottayam,colacasia,5700
+Kerala,Kottayam,cucumbar(kheera),2000
+Kerala,Kottayam,drumstick,5800
+Kerala,Kottayam,elephant yam (suran),2300
+Kerala,Kottayam,ginger(green),8600
+Kerala,Kottayam,green chilli,3800
+Kerala,Kottayam,little gourd (kundru),3400
+Kerala,Kottayam,mango (raw-ripe),3400
+Kerala,Kottayam,onion,3500
+Kerala,Kottayam,onion,1400
+Kerala,Kottayam,potato,2800
+Kerala,Kottayam,pumpkin,1100
+Kerala,Kottayam,snakeguard,1900
+Kerala,Kottayam,tapioca,2500
+Kerala,Kottayam,tomato,2200
+Kerala,Kottayam,banana,4000
+Kerala,Kottayam,banana,1800
+Kerala,Kottayam,banana,3000
+Kerala,Malappuram,amaranthus,1800
+Kerala,Malappuram,amla(nelli kai),3800
+Kerala,Malappuram,amphophalus,2300
+Kerala,Malappuram,ashgourd,1300
+Kerala,Malappuram,beetroot,1900
+Kerala,Malappuram,bhindi(ladies finger),3200
+Kerala,Malappuram,bitter gourd,3100
+Kerala,Malappuram,bottle gourd,1700
+Kerala,Malappuram,brinjal,1900
+Kerala,Malappuram,cabbage,1300
+Kerala,Malappuram,carrot,2100
+Kerala,Malappuram,cauliflower,2100
+Kerala,Malappuram,cowpea(veg),3100
+Kerala,Malappuram,cucumbar(kheera),1300
+Kerala,Malappuram,drumstick,6100
+Kerala,Malappuram,french beans (frasbean),3100
+Kerala,Malappuram,garlic,7100
+Kerala,Malappuram,ginger(green),8900
+Kerala,Malappuram,green chilli,3100
+Kerala,Malappuram,lemon,4100
+Kerala,Malappuram,onion,1400
+Kerala,Malappuram,orange,5900
+Kerala,Malappuram,potato,2100
+Kerala,Malappuram,pumpkin,1300
+Kerala,Malappuram,snakeguard,1700
+Kerala,Malappuram,tomato,1100
+Kerala,Thirssur,amaranthus,1700
+Kerala,Thirssur,ashgourd,1900
+Kerala,Thirssur,banana - green,4300
+Kerala,Thirssur,beetroot,2100
+Kerala,Thirssur,bhindi(ladies finger),2300
+Kerala,Thirssur,bitter gourd,2700
+Kerala,Thirssur,brinjal,1700
+Kerala,Thirssur,cabbage,2100
+Kerala,Thirssur,carrot,3500
+Kerala,Thirssur,cauliflower,3600
+Kerala,Thirssur,coconut seed,3500
+Kerala,Thirssur,cowpea(veg),2100
+Kerala,Thirssur,cucumbar(kheera),2300
+Kerala,Thirssur,drumstick,3200
+Kerala,Thirssur,duster beans,3600
+Kerala,Thirssur,elephant yam (suran),2600
+Kerala,Thirssur,ginger(green),8200
+Kerala,Thirssur,green chilli,2100
+Kerala,Thirssur,mango (raw-ripe),2100
+Kerala,Thirssur,onion,1900
+Kerala,Thirssur,potato,2600
+Kerala,Thirssur,pumpkin,1700
+Kerala,Thirssur,snakeguard,1900
+Kerala,Thirssur,tapioca,2500
+Kerala,Thirssur,tomato,2100
+Kerala,Thirssur,ashgourd,2200
+Kerala,Thirssur,banana,6000
+Kerala,Thirssur,banana - green,6200
+Kerala,Thirssur,beetroot,3000
+Kerala,Thirssur,bhindi(ladies finger),3200
+Kerala,Thirssur,bitter gourd,4000
+Kerala,Thirssur,bottle gourd,2400
+Kerala,Thirssur,brinjal,2500
+Kerala,Thirssur,cabbage,3000
+Kerala,Thirssur,carrot,3800
+Kerala,Thirssur,cauliflower,2700
+Kerala,Thirssur,coconut,4000
+Kerala,Thirssur,cowpea(veg),3500
+Kerala,Thirssur,cucumbar(kheera),2000
+Kerala,Thirssur,drumstick,2600
+Kerala,Thirssur,elephant yam (suran),2400
+Kerala,Thirssur,ginger(green),4000
+Kerala,Thirssur,green chilli,3500
+Kerala,Thirssur,indian beans (seam),4000
+Kerala,Thirssur,lemon,2000
+Kerala,Thirssur,mango,3500
+Kerala,Thirssur,onion,2500
+Kerala,Thirssur,potato,2400
+Kerala,Thirssur,pumpkin,3000
+Kerala,Thirssur,tapioca,4000
+Kerala,Thirssur,tomato,2000
+Kerala,Thirssur,ashgourd,850
+Kerala,Thirssur,banana - green,3600
+Kerala,Thirssur,beetroot,2100
+Kerala,Thirssur,bhindi(ladies finger),2300
+Kerala,Thirssur,bitter gourd,3600
+Kerala,Thirssur,brinjal,1500
+Kerala,Thirssur,cabbage,2200
+Kerala,Thirssur,carrot,2300
+Kerala,Thirssur,drumstick,2400
+Kerala,Thirssur,elephant yam (suran),1400
+Kerala,Thirssur,french beans (frasbean),3000
+Kerala,Thirssur,ginger(green),7000
+Kerala,Thirssur,green chilli,3800
+Kerala,Thirssur,mango (raw-ripe),3000
+Kerala,Thirssur,onion,950
+Kerala,Thirssur,potato,1400
+Kerala,Thirssur,pumpkin,1100
+Kerala,Thirssur,sweet potato,2200
+Kerala,Thirssur,tapioca,2000
+Kerala,Thirssur,tomato,1600
+Kerala,Thiruvananthapuram,banana,3900
+Kerala,Thiruvananthapuram,banana,3600
+Kerala,Thiruvananthapuram,banana,3200
+Kerala,Thiruvananthapuram,banana,1700
+Kerala,Thiruvananthapuram,banana,1400
+Kerala,Thiruvananthapuram,banana,1100
+Kerala,Thiruvananthapuram,banana,3000
+Kerala,Thiruvananthapuram,banana,2700
+Kerala,Thiruvananthapuram,banana,3400
+Kerala,Thiruvananthapuram,banana,3900
+Kerala,Thiruvananthapuram,banana,3600
+Kerala,Thiruvananthapuram,banana,1800
+Kerala,Thiruvananthapuram,banana,1500
+Kerala,Thiruvananthapuram,banana,1200
+Kerala,Thiruvananthapuram,amaranthus,3500
+Kerala,Thiruvananthapuram,banana,3800
+Kerala,Thiruvananthapuram,banana,1400
+Kerala,Thiruvananthapuram,banana,3500
+Kerala,Thiruvananthapuram,bitter gourd,5000
+Kerala,Thiruvananthapuram,brinjal,6000
+Kerala,Thiruvananthapuram,brinjal,3000
+Kerala,Thiruvananthapuram,colacasia,4000
+Kerala,Thiruvananthapuram,drumstick,4000
+Kerala,Thiruvananthapuram,ginger(green),8000
+Kerala,Thiruvananthapuram,pumpkin,1700
+Kerala,Thiruvananthapuram,snakeguard,2600
+Madhya Pradesh,Anupur,paddy(dhan)(common),1750
+Madhya Pradesh,Badwani,bhindi(ladies finger),750
+Madhya Pradesh,Badwani,bottle gourd,700
+Madhya Pradesh,Badwani,brinjal,700
+Madhya Pradesh,Badwani,cauliflower,700
+Madhya Pradesh,Badwani,green chilli,800
+Madhya Pradesh,Badwani,spinach,700
+Madhya Pradesh,Badwani,tomato,800
+Madhya Pradesh,Dhar,apple,2200
+Madhya Pradesh,Dhar,banana,1200
+Madhya Pradesh,Dhar,soyabean,3200
+Madhya Pradesh,Dhar,wheat,2000
+Madhya Pradesh,Dhar,apple,2000
+Madhya Pradesh,Dhar,banana,800
+Madhya Pradesh,Dhar,orange,900
+Madhya Pradesh,Dindori,linseed,3475
+Madhya Pradesh,Dindori,niger seed (ramtil),4150
+Madhya Pradesh,Dindori,paddy(dhan)(common),1325
+Madhya Pradesh,Dindori,soyabean,3350
+Madhya Pradesh,Jhabua,bhindi(ladies finger),2000
+Madhya Pradesh,Jhabua,bitter gourd,1450
+Madhya Pradesh,Jhabua,bottle gourd,1700
+Madhya Pradesh,Jhabua,brinjal,1600
+Madhya Pradesh,Jhabua,cabbage,1400
+Madhya Pradesh,Jhabua,cauliflower,1500
+Madhya Pradesh,Jhabua,coriander(leaves),1550
+Madhya Pradesh,Jhabua,cotton,5400
+Madhya Pradesh,Jhabua,green chilli,2200
+Madhya Pradesh,Jhabua,green gram dal (moong dal),3650
+Madhya Pradesh,Jhabua,methi(leaves),1300
+Madhya Pradesh,Jhabua,onion,650
+Madhya Pradesh,Jhabua,paddy(dhan)(common),1300
+Madhya Pradesh,Jhabua,spinach,1300
+Madhya Pradesh,Jhabua,tomato,1550
+Madhya Pradesh,Jhabua,wheat,1915
+Madhya Pradesh,Khandwa,tomato,1300
+Madhya Pradesh,Narsinghpur,cabbage,750
+Madhya Pradesh,Narsinghpur,coriander(leaves),400
+Madhya Pradesh,Narsinghpur,green chilli,2250
+Madhya Pradesh,Sheopur,mustard,3250
+Madhya Pradesh,Sheopur,carrot,450
+Madhya Pradesh,Sheopur,orange,1100
+Madhya Pradesh,Sheopur,potato,750
+Madhya Pradesh,Sheopur,tomato,550
+Maharashtra,Ahmednagar,onion,400
+Maharashtra,Ahmednagar,pomegranate,4000
+Maharashtra,Buldhana,cotton,5300
+Maharashtra,Jalgaon,banana,910
+Maharashtra,Jalgaon,bengal gram(gram)(whole),4220
+Maharashtra,Jalgaon,cotton,5200
+Maharashtra,Jalgaon,maize,1350
+Maharashtra,Jalgaon,onion,510
+Maharashtra,Kolhapur,apple,10000
+Maharashtra,Kolhapur,brinjal,1800
+Maharashtra,Kolhapur,cabbage,1100
+Maharashtra,Kolhapur,cauliflower,1050
+Maharashtra,Kolhapur,coriander(leaves),2450
+Maharashtra,Kolhapur,green chilli,4600
+Maharashtra,Kolhapur,lime,3625
+Maharashtra,Kolhapur,mango,4500
+Maharashtra,Kolhapur,onion,450
+Maharashtra,Kolhapur,tomato,1350
+Maharashtra,Kolhapur,brinjal,250
+Maharashtra,Kolhapur,cabbage,200
+Maharashtra,Kolhapur,cauliflower,250
+Maharashtra,Kolhapur,tomato,200
+Maharashtra,Nagpur,arhar (tur/red gram)(whole),4860
+Maharashtra,Nagpur,bengal gram(gram)(whole),3745
+Maharashtra,Nagpur,cotton,5325
+Maharashtra,Nagpur,wheat,2000
+Maharashtra,Nanded,arhar (tur/red gram)(whole),4000
+Maharashtra,Nanded,bengal gram(gram)(whole),3651
+Maharashtra,Nanded,turmeric,5200
+Maharashtra,Nanded,wheat,1900
+Maharashtra,Nashik,onion,351
+Maharashtra,Pune,apple,7800
+Maharashtra,Pune,beans,3500
+Maharashtra,Pune,beetroot,1000
+Maharashtra,Pune,bhindi(ladies finger),2500
+Maharashtra,Pune,bitter gourd,4000
+Maharashtra,Pune,bottle gourd,1500
+Maharashtra,Pune,brinjal,1500
+Maharashtra,Pune,cabbage,800
+Maharashtra,Pune,carrot,1000
+Maharashtra,Pune,cauliflower,1000
+Maharashtra,Pune,chikoos(sapota),1500
+Maharashtra,Pune,chilly capsicum,2500
+Maharashtra,Pune,coriander(leaves),4
+Maharashtra,Pune,cucumbar(kheera),2000
+Maharashtra,Pune,drumstick,3000
+Maharashtra,Pune,elephant yam (suran),1300
+Maharashtra,Pune,garlic,2000
+Maharashtra,Pune,ginger(dry),4500
+Maharashtra,Pune,grapes,3000
+Maharashtra,Pune,green chilli,3500
+Maharashtra,Pune,guar,5000
+Maharashtra,Pune,guava,3500
+Maharashtra,Pune,karbuja(musk melon),1700
+Maharashtra,Pune,lime,1000
+Maharashtra,Pune,little gourd (kundru),2000
+Maharashtra,Pune,mint(pudina),2
+Maharashtra,Pune,onion,300
+Maharashtra,Pune,onion green,5
+Maharashtra,Pune,orange,2900
+Maharashtra,Pune,pear(marasebu),8000
+Maharashtra,Pune,peas wet,1800
+Maharashtra,Pune,pineapple,1400
+Maharashtra,Pune,potato,1100
+Maharashtra,Pune,pumpkin,1500
+Maharashtra,Pune,raddish,12
+Maharashtra,Pune,rajgir,4
+Maharashtra,Pune,ridgeguard(tori),3000
+Maharashtra,Pune,snakeguard,1700
+Maharashtra,Pune,spinach,4
+Maharashtra,Pune,sweet potato,1500
+Maharashtra,Pune,sweet pumpkin,1000
+Maharashtra,Pune,tender coconut,400
+Maharashtra,Pune,tomato,1000
+Maharashtra,Pune,water melon,400
+Maharashtra,Pune,bhindi(ladies finger),5000
+Maharashtra,Pune,bitter gourd,5000
+Maharashtra,Pune,bottle gourd,1500
+Maharashtra,Pune,brinjal,1800
+Maharashtra,Pune,cabbage,800
+Maharashtra,Pune,cauliflower,1000
+Maharashtra,Pune,coriander(leaves),3
+Maharashtra,Pune,cucumbar(kheera),3000
+Maharashtra,Pune,grapes,3000
+Maharashtra,Pune,guava,4500
+Maharashtra,Pune,leafy vegetable,1800
+Maharashtra,Pune,methi(leaves),6
+Maharashtra,Pune,mint(pudina),6
+Maharashtra,Pune,onion,300
+Maharashtra,Pune,onion green,5
+Maharashtra,Pune,peas wet,4000
+Maharashtra,Pune,raddish,8
+Maharashtra,Pune,rajgir,3
+Maharashtra,Pune,ridgeguard(tori),6000
+Maharashtra,Pune,spinach,3
+Maharashtra,Pune,tomato,1400
+Maharashtra,Pune,water melon,800
+Maharashtra,Pune,carrot,900
+Maharashtra,Pune,cauliflower,750
+Maharashtra,Pune,coriander(leaves),4
+Maharashtra,Pune,green chilli,2400
+Maharashtra,Pune,onion,400
+Maharashtra,Pune,onion green,5
+Maharashtra,Pune,potato,850
+Maharashtra,Pune,raddish,8
+Maharashtra,Pune,spinach,4
+Maharashtra,Pune,tomato,1000
+Maharashtra,Pune,beans,3600
+Maharashtra,Pune,beetroot,1400
+Maharashtra,Pune,bottle gourd,2000
+Maharashtra,Pune,brinjal,2600
+Maharashtra,Pune,cabbage,1550
+Maharashtra,Pune,cauliflower,1200
+Maharashtra,Pune,coriander(leaves),4
+Maharashtra,Pune,drumstick,5000
+Maharashtra,Pune,onion,550
+Maharashtra,Pune,potato,1000
+Maharashtra,Pune,raddish,10
+Maharashtra,Pune,spinach,9
+Maharashtra,Pune,tomato,1200
+Maharashtra,Satara,apple,8000
+Maharashtra,Satara,banana,1000
+Maharashtra,Satara,beans,2500
+Maharashtra,Satara,bhindi(ladies finger),4000
+Maharashtra,Satara,bitter gourd,3700
+Maharashtra,Satara,bottle gourd,1000
+Maharashtra,Satara,brinjal,800
+Maharashtra,Satara,cabbage,1000
+Maharashtra,Satara,carrot,1000
+Maharashtra,Satara,cauliflower,900
+Maharashtra,Satara,chikoos(sapota),2500
+Maharashtra,Satara,chilly capsicum,3500
+Maharashtra,Satara,coriander(leaves),2
+Maharashtra,Satara,cucumbar(kheera),2000
+Maharashtra,Satara,drumstick,2000
+Maharashtra,Satara,garlic,3400
+Maharashtra,Satara,ginger(dry),6500
+Maharashtra,Satara,grapes,2250
+Maharashtra,Satara,green chilli,4500
+Maharashtra,Satara,guar,4600
+Maharashtra,Satara,onion,800
+Maharashtra,Satara,onion green,3
+Maharashtra,Satara,peas wet,2600
+Maharashtra,Satara,pomegranate,2500
+Maharashtra,Satara,potato,1500
+Maharashtra,Satara,ridgeguard(tori),3800
+Maharashtra,Satara,spinach,2
+Maharashtra,Satara,sweet potato,1800
+Maharashtra,Satara,tomato,1000
+Maharashtra,Satara,water melon,700
+Maharashtra,Sholapur,brinjal,2000
+Maharashtra,Sholapur,potato,1400
+Maharashtra,Sholapur,bhindi(ladies finger),2800
+Maharashtra,Sholapur,bitter gourd,3100
+Maharashtra,Sholapur,brinjal,1300
+Maharashtra,Sholapur,coriander(leaves),2
+Maharashtra,Sholapur,cucumbar(kheera),2000
+Maharashtra,Sholapur,green chilli,5000
+Maharashtra,Sholapur,onion,500
+Maharashtra,Sholapur,ridgeguard(tori),2900
+Maharashtra,Sholapur,tomato,1000
+Maharashtra,Sholapur,banana,475
+Manipur,Bishnupur,banana,3500
+Manipur,Bishnupur,bengal gram dal (chana dal),9600
+Manipur,Bishnupur,cabbage,1300
+Manipur,Bishnupur,cauliflower,2500
+Manipur,Bishnupur,ginger(green),4500
+Manipur,Bishnupur,masur dal,7300
+Manipur,Bishnupur,onion,2500
+Manipur,Bishnupur,paddy(dhan)(common),2250
+Manipur,Bishnupur,potato,1000
+Manipur,Bishnupur,rice,3700
+Manipur,Chandel,banana,3000
+Manipur,Chandel,cabbage,1000
+Manipur,Chandel,cauliflower,2000
+Manipur,Chandel,dry chillies,13300
+Manipur,Chandel,ginger(green),3500
+Manipur,Chandel,masur dal,7400
+Manipur,Chandel,onion,2500
+Manipur,Chandel,potato,1400
+Manipur,Chandel,rice,3500
+Manipur,Imphal East,banana,3500
+Manipur,Imphal East,cabbage,1500
+Manipur,Imphal East,cauliflower,2500
+Manipur,Imphal East,dry chillies,15000
+Manipur,Imphal East,ginger(green),5500
+Manipur,Imphal East,masur dal,8200
+Manipur,Imphal East,onion,2500
+Manipur,Imphal East,paddy(dhan)(common),2500
+Manipur,Imphal East,potato,1000
+Manipur,Imphal East,rice,4100
+Manipur,Imphal West,banana,3500
+Manipur,Imphal West,bengal gram dal (chana dal),8000
+Manipur,Imphal West,cabbage,1500
+Manipur,Imphal West,cauliflower,2000
+Manipur,Imphal West,dry chillies,15000
+Manipur,Imphal West,ginger(green),3000
+Manipur,Imphal West,masur dal,7000
+Manipur,Imphal West,onion,2500
+Manipur,Imphal West,paddy(dhan)(common),2250
+Manipur,Imphal West,potato,1500
+Manipur,Imphal West,rice,3800
+Manipur,Thoubal,banana,3500
+Manipur,Thoubal,bengal gram dal (chana dal),11000
+Manipur,Thoubal,cabbage,1000
+Manipur,Thoubal,cauliflower,2000
+Manipur,Thoubal,dry chillies,14000
+Manipur,Thoubal,ginger(green),5500
+Manipur,Thoubal,masur dal,7500
+Manipur,Thoubal,onion,2000
+Manipur,Thoubal,paddy(dhan)(common),2375
+Manipur,Thoubal,potato,1000
+Manipur,Thoubal,rice,3900
+Manipur,Thoubal,turmeric (raw),2500
+Meghalaya,East Khasi Hills,arecanut(betelnut/supari),13500
+Meghalaya,East Khasi Hills,banana,4000
+Meghalaya,East Khasi Hills,betal leaves,26500
+Meghalaya,East Khasi Hills,ginger(dry),6500
+Meghalaya,East Khasi Hills,orange,4000
+Meghalaya,East Khasi Hills,pumpkin,1850
+Nagaland,Mokokchung,arecanut(betelnut/supari),1500
+Nagaland,Mokokchung,banana - green,4200
+Nagaland,Mokokchung,cabbage,2300
+Nagaland,Mokokchung,ginger(green),1700
+Nagaland,Mokokchung,leafy vegetable,1700
+Nagaland,Mokokchung,turmeric (raw),1700
+Odisha,Angul,brinjal,500
+Odisha,Angul,brinjal,500
+Odisha,Angul,potato,800
+Odisha,Balasore,brinjal,1200
+Odisha,Balasore,cabbage,700
+Odisha,Balasore,garlic,5100
+Odisha,Balasore,ginger(dry),7500
+Odisha,Balasore,onion,1100
+Odisha,Balasore,tomato,700
+Odisha,Balasore,cabbage,550
+Odisha,Balasore,carrot,1450
+Odisha,Balasore,garlic,2900
+Odisha,Balasore,tomato,600
+Odisha,Bargarh,paddy(dhan)(common),1750
+Odisha,Dhenkanal,banana - green,2800
+Odisha,Dhenkanal,beans,2500
+Odisha,Dhenkanal,bhindi(ladies finger),3800
+Odisha,Dhenkanal,bitter gourd,4200
+Odisha,Dhenkanal,brinjal,1000
+Odisha,Dhenkanal,cucumbar(kheera),2400
+Odisha,Dhenkanal,onion,1300
+Odisha,Dhenkanal,potato,900
+Odisha,Dhenkanal,pumpkin,1300
+Odisha,Dhenkanal,tomato,800
+Odisha,Gajapati,banana,3000
+Odisha,Gajapati,bhindi(ladies finger),3000
+Odisha,Gajapati,brinjal,1000
+Odisha,Gajapati,tomato,1200
+Odisha,Gajapati,water melon,3000
+Odisha,Gajapati,banana,3000
+Odisha,Gajapati,coconut,1500
+Odisha,Ganjam,brinjal,1500
+Odisha,Ganjam,onion,1400
+Odisha,Ganjam,paddy(dhan)(common),1750
+Odisha,Ganjam,brinjal,3200
+Odisha,Ganjam,maize,1350
+Odisha,Jharsuguda,onion,1300
+Odisha,Jharsuguda,potato,900
+Odisha,Mayurbhanja,beans,2800
+Odisha,Mayurbhanja,bitter gourd,2800
+Odisha,Mayurbhanja,brinjal,700
+Odisha,Mayurbhanja,cabbage,600
+Odisha,Mayurbhanja,cauliflower,1500
+Odisha,Mayurbhanja,cucumbar(kheera),3500
+Odisha,Mayurbhanja,leafy vegetable,1500
+Odisha,Mayurbhanja,onion,1400
+Odisha,Mayurbhanja,potato,600
+Odisha,Mayurbhanja,rice,2200
+Odisha,Mayurbhanja,tomato,800
+Odisha,Mayurbhanja,bhindi(ladies finger),6500
+Odisha,Mayurbhanja,bitter gourd,7500
+Odisha,Mayurbhanja,brinjal,1400
+Odisha,Mayurbhanja,cabbage,700
+Odisha,Mayurbhanja,cauliflower,800
+Odisha,Mayurbhanja,pumpkin,1100
+Odisha,Mayurbhanja,tomato,800
+Odisha,Nowarangpur,broken rice,1200
+Odisha,Nowarangpur,gur(jaggery),2000
+Odisha,Nowarangpur,maize,1400
+Odisha,Sundergarh,banana - green,4000
+Odisha,Sundergarh,bhindi(ladies finger),4000
+Odisha,Sundergarh,black gram (urd beans)(whole),9000
+Odisha,Sundergarh,black gram (urd beans)(whole),9000
+Odisha,Sundergarh,brinjal,2000
+Odisha,Sundergarh,cabbage,1000
+Odisha,Sundergarh,capsicum,4000
+Odisha,Sundergarh,carrot,1000
+Odisha,Sundergarh,cauliflower,1000
+Odisha,Sundergarh,cucumbar(kheera),4000
+Odisha,Sundergarh,french beans (frasbean),4000
+Odisha,Sundergarh,onion,1500
+Odisha,Sundergarh,onion,1500
+Odisha,Sundergarh,orange,8000
+Odisha,Sundergarh,orange,8000
+Odisha,Sundergarh,orange,8000
+Odisha,Sundergarh,paddy(dhan)(common),1790
+Odisha,Sundergarh,potato,1000
+Odisha,Sundergarh,rice,3000
+Odisha,Sundergarh,sugar,4000
+Odisha,Sundergarh,tomato,1000
+Odisha,Sundergarh,wheat,3000
+Odisha,Sundergarh,wheat atta,3500
+Odisha,Sundergarh,brinjal,600
+Odisha,Sundergarh,cabbage,800
+Odisha,Sundergarh,cauliflower,900
+Odisha,Sundergarh,tomato,900
+Pondicherry,Karaikal,copra,9000
+Pondicherry,Karaikal,paddy(dhan)(common),1833
+Pondicherry,Karaikal,paddy(dhan)(common),1667
+Pondicherry,Karaikal,paddy(dhan)(common),1583
+Pondicherry,Karaikal,paddy(dhan)(common),1583
+Pondicherry,Karaikal,paddy(dhan)(common),1833
+Pondicherry,Karaikal,"sesamum(sesame,gingelly,til)",10000
+Punjab,Amritsar,carrot,800
+Punjab,Amritsar,cauliflower,900
+Punjab,Amritsar,peas cod,800
+Punjab,Amritsar,carrot,800
+Punjab,Barnala,carrot,500
+Punjab,Barnala,cauliflower,500
+Punjab,Barnala,peas wet,1500
+Punjab,Barnala,raddish,300
+Punjab,Bhatinda,onion,1500
+Punjab,Bhatinda,potato,450
+Punjab,Gurdaspur,cauliflower,700
+Punjab,Gurdaspur,peas cod,1000
+Punjab,Gurdaspur,turnip,700
+Punjab,Gurdaspur,brinjal,700
+Punjab,Gurdaspur,carrot,650
+Punjab,Gurdaspur,cauliflower,580
+Punjab,Gurdaspur,onion,850
+Punjab,Gurdaspur,peas wet,700
+Punjab,Gurdaspur,potato,370
+Punjab,Gurdaspur,raddish,420
+Punjab,Gurdaspur,brinjal,1450
+Punjab,Gurdaspur,capsicum,2050
+Punjab,Gurdaspur,green chilli,1500
+Punjab,Hoshiarpur,brinjal,2000
+Punjab,Hoshiarpur,cabbage,500
+Punjab,Hoshiarpur,capsicum,3000
+Punjab,Hoshiarpur,carrot,700
+Punjab,Hoshiarpur,cauliflower,800
+Punjab,Hoshiarpur,cucumbar(kheera),2500
+Punjab,Hoshiarpur,field pea,1500
+Punjab,Hoshiarpur,ginger(green),7500
+Punjab,Hoshiarpur,grapes,5000
+Punjab,Hoshiarpur,grapes,3000
+Punjab,Hoshiarpur,green chilli,5000
+Punjab,Hoshiarpur,kinnow,2000
+Punjab,Hoshiarpur,kinnow,1200
+Punjab,Hoshiarpur,kinnow,500
+Punjab,Hoshiarpur,onion,800
+Punjab,Hoshiarpur,papaya,1500
+Punjab,Hoshiarpur,potato,500
+Punjab,Hoshiarpur,raddish,600
+Punjab,Hoshiarpur,spinach,700
+Punjab,Hoshiarpur,tomato,2000
+Punjab,Jalandhar,amphophalus,2000
+Punjab,Jalandhar,bhindi(ladies finger),5000
+Punjab,Jalandhar,brinjal,2000
+Punjab,Jalandhar,cabbage,400
+Punjab,Jalandhar,capsicum,4000
+Punjab,Jalandhar,carrot,500
+Punjab,Jalandhar,cauliflower,700
+Punjab,Jalandhar,coriander(leaves),1000
+Punjab,Jalandhar,cucumbar(kheera),2500
+Punjab,Jalandhar,garlic,4000
+Punjab,Jalandhar,ginger(green),7000
+Punjab,Jalandhar,green chilli,5000
+Punjab,Jalandhar,kinnow,1200
+Punjab,Jalandhar,onion,800
+Punjab,Jalandhar,peas wet,1500
+Punjab,Jalandhar,potato,500
+Punjab,Jalandhar,raddish,400
+Punjab,Jalandhar,spinach,900
+Punjab,Jalandhar,tomato,2500
+Punjab,Jalandhar,turnip,400
+Punjab,Jalandhar,cabbage,300
+Punjab,Jalandhar,carrot,300
+Punjab,Jalandhar,cauliflower,200
+Punjab,Jalandhar,peas wet,800
+Punjab,Jalandhar,potato,400
+Punjab,Jalandhar,raddish,300
+Punjab,Jalandhar,spinach,300
+Punjab,Jalandhar,tomato,1400
+Punjab,Jalandhar,carrot,700
+Punjab,Jalandhar,cauliflower,700
+Punjab,Jalandhar,methi(leaves),600
+Punjab,Jalandhar,raddish,500
+Punjab,Jalandhar,spinach,600
+Punjab,Ludhiana,carrot,700
+Punjab,Ludhiana,cauliflower,550
+Punjab,Ludhiana,green chilli,3000
+Punjab,Ludhiana,onion,1000
+Punjab,Ludhiana,peas wet,1250
+Punjab,Ludhiana,potato,350
+Punjab,Ludhiana,tomato,1500
+Punjab,Ludhiana,cabbage,500
+Punjab,Ludhiana,carrot,900
+Punjab,Ludhiana,cauliflower,900
+Punjab,Ludhiana,coriander(leaves),1500
+Punjab,Ludhiana,green chilli,5000
+Punjab,Ludhiana,methi(leaves),1000
+Punjab,Ludhiana,peas wet,1700
+Punjab,Ludhiana,potato,400
+Punjab,Ludhiana,raddish,250
+Punjab,Ludhiana,spinach,800
+Punjab,Ludhiana,tomato,2000
+Punjab,Mansa,banana,1500
+Punjab,Mansa,bhindi(ladies finger),3500
+Punjab,Mansa,brinjal,1100
+Punjab,Mansa,capsicum,2800
+Punjab,Mansa,carrot,500
+Punjab,Mansa,cauliflower,700
+Punjab,Mansa,cotton,5390
+Punjab,Mansa,cucumbar(kheera),1800
+Punjab,Mansa,grapes,7000
+Punjab,Mansa,grapes,4500
+Punjab,Mansa,green chilli,3000
+Punjab,Mansa,kinnow,1500
+Punjab,Mansa,onion,1200
+Punjab,Mansa,peas cod,1200
+Punjab,Mansa,potato,520
+Punjab,Mansa,tomato,2200
+Punjab,Muktsar,apple,5500
+Punjab,Muktsar,banana,1800
+Punjab,Muktsar,brinjal,1300
+Punjab,Muktsar,cabbage,400
+Punjab,Muktsar,carrot,500
+Punjab,Muktsar,cauliflower,500
+Punjab,Muktsar,chikoos(sapota),3000
+Punjab,Muktsar,cotton,5500
+Punjab,Muktsar,cucumbar(kheera),3500
+Punjab,Muktsar,ginger(green),7500
+Punjab,Muktsar,gram raw(chholia),1000
+Punjab,Muktsar,grapes,8500
+Punjab,Muktsar,grapes,4500
+Punjab,Muktsar,green chilli,2000
+Punjab,Muktsar,guava,2200
+Punjab,Muktsar,kinnow,1200
+Punjab,Muktsar,onion,700
+Punjab,Muktsar,onion green,1200
+Punjab,Muktsar,peas cod,1200
+Punjab,Muktsar,pineapple,4000
+Punjab,Muktsar,pomegranate,6500
+Punjab,Muktsar,potato,550
+Punjab,Muktsar,raddish,500
+Punjab,Muktsar,spinach,600
+Punjab,Muktsar,tomato,2000
+Punjab,Patiala,brinjal,1500
+Punjab,Patiala,onion,1000
+Punjab,Patiala,carrot,600
+Punjab,Patiala,cauliflower,500
+Punjab,Patiala,ginger(green),5500
+Punjab,Patiala,green chilli,2500
+Punjab,Patiala,onion,850
+Punjab,Patiala,peas wet,850
+Punjab,Patiala,potato,350
+Punjab,Patiala,tomato,1200
+Punjab,Ropar (Rupnagar),carrot,760
+Punjab,Ropar (Rupnagar),cucumbar(kheera),1400
+Punjab,Ropar (Rupnagar),ginger(green),7730
+Punjab,Ropar (Rupnagar),green chilli,2640
+Punjab,Ropar (Rupnagar),onion,1020
+Punjab,Ropar (Rupnagar),peas wet,1330
+Punjab,Ropar (Rupnagar),raddish,550
+Punjab,Ropar (Rupnagar),tomato,1500
+Punjab,Tarntaran,carrot,500
+Punjab,Tarntaran,cauliflower,400
+Punjab,Tarntaran,coriander(leaves),400
+Punjab,Tarntaran,peas wet,700
+Punjab,Tarntaran,raddish,400
+Punjab,Tarntaran,squash(chappal kadoo),1400
+Punjab,Tarntaran,apple,5500
+Punjab,Tarntaran,banana,900
+Punjab,Tarntaran,brinjal,900
+Punjab,Tarntaran,capsicum,2100
+Punjab,Tarntaran,carrot,700
+Punjab,Tarntaran,cauliflower,520
+Punjab,Tarntaran,coriander(leaves),120
+Punjab,Tarntaran,cucumbar(kheera),1800
+Punjab,Tarntaran,garlic,2200
+Punjab,Tarntaran,ginger(dry),6500
+Punjab,Tarntaran,green chilli,1400
+Punjab,Tarntaran,guava,2000
+Punjab,Tarntaran,kinnow,900
+Punjab,Tarntaran,leafy vegetable,320
+Punjab,Tarntaran,onion,900
+Punjab,Tarntaran,papaya,1200
+Punjab,Tarntaran,peas wet,1000
+Punjab,Tarntaran,potato,600
+Punjab,Tarntaran,raddish,350
+Punjab,Tarntaran,spinach,400
+Punjab,Tarntaran,tomato,1500
+Rajasthan,Baran,mustard,3443
+Rajasthan,Barmer,guar seed(cluster beans seed),4100
+Rajasthan,Barmer,moath dal,4350
+Rajasthan,Bikaner,guar,4020
+Rajasthan,Bikaner,moath dal,4285
+Rajasthan,Chittorgarh,wheat,1750
+Rajasthan,Jalore,banana,1900
+Rajasthan,Jalore,bhindi(ladies finger),3900
+Rajasthan,Jalore,bottle gourd,1100
+Rajasthan,Jalore,cabbage,900
+Rajasthan,Jalore,capsicum,2400
+Rajasthan,Jalore,carrot,900
+Rajasthan,Jalore,cauliflower,1100
+Rajasthan,Jalore,cucumbar(kheera),2400
+Rajasthan,Jalore,ginger(green),5900
+Rajasthan,Jalore,grapes,3400
+Rajasthan,Jalore,green chilli,4400
+Rajasthan,Jalore,lemon,2400
+Rajasthan,Jalore,onion,700
+Rajasthan,Jalore,papaya,1400
+Rajasthan,Jalore,pomegranate,1500
+Rajasthan,Jalore,tomato,1500
+Rajasthan,Jhalawar,mustard,3613
+Rajasthan,Jhalawar,soyabean,3525
+Rajasthan,Jhalawar,wheat,1975
+Rajasthan,Kota,bengal gram(gram)(whole),3550
+Rajasthan,Kota,corriander seed,4152
+Rajasthan,Kota,mustard,3128
+Rajasthan,Kota,soyabean,3615
+Rajasthan,Kota,wheat,1915
+Rajasthan,Sikar,bajra(pearl millet/cumbu),1812
+Rajasthan,Sikar,bengal gram(gram)(whole),3400
+Rajasthan,Sikar,ground nut seed,3500
+Rajasthan,Sikar,guar seed(cluster beans seed),3875
+Rajasthan,Sikar,guar,4050
+Rajasthan,Tonk,bajra(pearl millet/cumbu),1740
+Rajasthan,Tonk,maize,1875
+Rajasthan,Tonk,mustard,3350
+Rajasthan,Tonk,taramira,3256
+Rajasthan,Tonk,wheat,1878
+Rajasthan,Tonk,black gram (urd beans)(whole),2700
+Tamil Nadu,Coimbatore,coconut,2900
+Tamil Nadu,Coimbatore,tobacco,3100
+Tamil Nadu,Coimbatore,turmeric,6300
+Tamil Nadu,Coimbatore,coconut,2500
+Tamil Nadu,Coimbatore,coconut,3100
+Tamil Nadu,Coimbatore,copra,10275
+Tamil Nadu,Coimbatore,maize,1925
+Tamil Nadu,Coimbatore,paddy(dhan)(common),1700
+Tamil Nadu,Coimbatore,coconut,3150
+Tamil Nadu,Coimbatore,coconut,2140
+Tamil Nadu,Coimbatore,copra,9500
+Tamil Nadu,Coimbatore,maize,1850
+Tamil Nadu,Coimbatore,coconut,2720
+Tamil Nadu,Coimbatore,coconut,2400
+Tamil Nadu,Coimbatore,coconut,2270
+Tamil Nadu,Coimbatore,coconut,2800
+Tamil Nadu,Coimbatore,groundnut,5100
+Tamil Nadu,Coimbatore,coconut,2800
+Tamil Nadu,Coimbatore,coconut,2750
+Tamil Nadu,Coimbatore,copra,9350
+Tamil Nadu,Coimbatore,maize,1850
+Tamil Nadu,Cuddalore,black gram (urd beans)(whole),4789
+Tamil Nadu,Cuddalore,groundnut,7034
+Tamil Nadu,Cuddalore,paddy(dhan)(common),1500
+Tamil Nadu,Cuddalore,paddy(dhan)(common),1616
+Tamil Nadu,Cuddalore,paddy(dhan)(common),1407
+Tamil Nadu,Cuddalore,black gram (urd beans)(whole),4706
+Tamil Nadu,Cuddalore,groundnut,7036
+Tamil Nadu,Dharmapuri,tamarind fruit,6000
+Tamil Nadu,Dharmapuri,coconut seed,1200
+Tamil Nadu,Dharmapuri,cotton,5600
+Tamil Nadu,Dharmapuri,tamarind fruit,5900
+Tamil Nadu,Dharmapuri,coconut seed,1200
+Tamil Nadu,Dharmapuri,groundnut,5000
+Tamil Nadu,Dindigul,coconut,1600
+Tamil Nadu,Dindigul,maize,1600
+Tamil Nadu,Dindigul,coconut,1650
+Tamil Nadu,Erode,coconut,3000
+Tamil Nadu,Erode,coconut,2870
+Tamil Nadu,Erode,coconut,2935
+Tamil Nadu,Erode,copra,10195
+Tamil Nadu,Erode,"sesamum(sesame,gingelly,til)",14509
+Tamil Nadu,Erode,"sesamum(sesame,gingelly,til)",11681
+Tamil Nadu,Erode,coconut,2530
+Tamil Nadu,Erode,coconut,3225
+Tamil Nadu,Erode,copra,8845
+Tamil Nadu,Kancheepuram,paddy(dhan)(common),1420
+Tamil Nadu,Kancheepuram,paddy(dhan)(common),1560
+Tamil Nadu,Kancheepuram,paddy(dhan)(common),1550
+Tamil Nadu,Kancheepuram,paddy(dhan)(common),1350
+Tamil Nadu,Kancheepuram,paddy(dhan)(common),1420
+Tamil Nadu,Kancheepuram,paddy(dhan)(common),1560
+Tamil Nadu,Kancheepuram,paddy(dhan)(common),1550
+Tamil Nadu,Kancheepuram,paddy(dhan)(common),1560
+Tamil Nadu,Kancheepuram,paddy(dhan)(common),1404
+Tamil Nadu,Krishnagiri,coconut seed,1800
+Tamil Nadu,Krishnagiri,coconut seed,1950
+Tamil Nadu,Krishnagiri,coconut seed,1950
+Tamil Nadu,Krishnagiri,cotton,5700
+Tamil Nadu,Madurai,coconut,1750
+Tamil Nadu,Madurai,paddy(dhan)(common),1820
+Tamil Nadu,Madurai,paddy(dhan)(common),1840
+Tamil Nadu,Madurai,"sesamum(sesame,gingelly,til)",7100
+Tamil Nadu,Madurai,cotton,4250
+Tamil Nadu,Madurai,cotton,4000
+Tamil Nadu,Madurai,jowar(sorghum),2150
+Tamil Nadu,Madurai,paddy(dhan)(common),1850
+Tamil Nadu,Madurai,paddy(dhan)(common),2450
+Tamil Nadu,Nagercoil (Kannyiakumari),cashewnuts,10500
+Tamil Nadu,Namakkal,turmeric,5740
+Tamil Nadu,Namakkal,turmeric,6800
+Tamil Nadu,Namakkal,copra,8400
+Tamil Nadu,Namakkal,copra,9450
+Tamil Nadu,Namakkal,turmeric,6950
+Tamil Nadu,Namakkal,turmeric,8000
+Tamil Nadu,Namakkal,coconut,2350
+Tamil Nadu,Ramanathapuram,paddy(dhan)(common),1810
+Tamil Nadu,Salem,copra,9700
+Tamil Nadu,Salem,tapioca,220
+Tamil Nadu,Salem,cotton,5650
+Tamil Nadu,Salem,coconut,2210
+Tamil Nadu,Salem,cotton,4800
+Tamil Nadu,Salem,cotton,5200
+Tamil Nadu,Salem,coconut,1280
+Tamil Nadu,Salem,turmeric,7120
+Tamil Nadu,Salem,maize,1840
+Tamil Nadu,Salem,cotton,5625
+Tamil Nadu,Salem,coconut,2310
+Tamil Nadu,Sivaganga,coconut,950
+Tamil Nadu,Thanjavur,paddy(dhan)(common),2000
+Tamil Nadu,Thanjavur,paddy(dhan)(common),1780
+Tamil Nadu,Thanjavur,paddy(dhan)(common),1780
+Tamil Nadu,Thanjavur,paddy(dhan)(common),1780
+Tamil Nadu,Thanjavur,paddy(dhan)(common),2250
+Tamil Nadu,Thanjavur,paddy(dhan)(common),1850
+Tamil Nadu,Thanjavur,paddy(dhan)(common),1950
+Tamil Nadu,Thiruvannamalai,groundnut,6620
+Tamil Nadu,Thiruvannamalai,paddy(dhan)(common),1356
+Tamil Nadu,Thiruvannamalai,paddy(dhan)(common),1448
+Tamil Nadu,Vellore,paddy(dhan)(common),1426
+Tamil Nadu,Vellore,paddy(dhan)(common),1298
+Tamil Nadu,Vellore,paddy(dhan)(common),1485
+Tamil Nadu,Vellore,paddy(dhan)(common),1453
+Tamil Nadu,Vellore,paddy(dhan)(common),1430
+Tamil Nadu,Vellore,black gram (urd beans)(whole),4715
+Tamil Nadu,Vellore,copra,9300
+Tamil Nadu,Vellore,cowpea (lobia/karamani),4550
+Tamil Nadu,Vellore,groundnut,7361
+Tamil Nadu,Vellore,kulthi(horse gram),2881
+Tamil Nadu,Vellore,maize,2210
+Tamil Nadu,Vellore,paddy(dhan)(common),1400
+Tamil Nadu,Vellore,paddy(dhan)(common),1652
+Tamil Nadu,Vellore,ragi (finger millet),2640
+Tamil Nadu,Vellore,tamarind fruit,10100
+Tamil Nadu,Villupuram,black gram (urd beans)(whole),4792
+Tamil Nadu,Villupuram,green gram (moong)(whole),5062
+Tamil Nadu,Villupuram,groundnut,6961
+Tamil Nadu,Villupuram,paddy(dhan)(common),1453
+Tamil Nadu,Villupuram,paddy(dhan)(common),2019
+Tamil Nadu,Villupuram,black gram (urd beans)(whole),4870
+Tamil Nadu,Villupuram,maize,1900
+Tamil Nadu,Villupuram,"sesamum(sesame,gingelly,til)",9350
+Tamil Nadu,Villupuram,black gram (urd beans)(whole),4824
+Tamil Nadu,Villupuram,cotton,4595
+Tamil Nadu,Villupuram,green gram (moong)(whole),5140
+Tamil Nadu,Villupuram,groundnut,6524
+Tamil Nadu,Villupuram,paddy(dhan)(common),1700
+Tamil Nadu,Villupuram,paddy(dhan)(common),2506
+Tamil Nadu,Villupuram,paddy(dhan)(common),1451
+Tamil Nadu,Villupuram,ragi (finger millet),2420
+Tamil Nadu,Villupuram,"sesamum(sesame,gingelly,til)",11049
+Tamil Nadu,Villupuram,t.v. cumbu,1851
+Tamil Nadu,Villupuram,black gram (urd beans)(whole),4866
+Tamil Nadu,Villupuram,gingelly oil,10649
+Tamil Nadu,Villupuram,green gram (moong)(whole),4302
+Tamil Nadu,Villupuram,groundnut,6886
+Tamil Nadu,Villupuram,kodo millet(varagu),1989
+Tamil Nadu,Villupuram,maize,1849
+Tamil Nadu,Villupuram,ragi (finger millet),2599
+Tamil Nadu,Villupuram,t.v. cumbu,2029
+Tamil Nadu,Villupuram,black gram (urd beans)(whole),4811
+Tamil Nadu,Villupuram,green gram (moong)(whole),3539
+Tamil Nadu,Villupuram,hybrid cumbu,1948
+Tamil Nadu,Villupuram,paddy(dhan)(common),1355
+Tamil Nadu,Villupuram,ragi (finger millet),2312
+Tamil Nadu,Villupuram,"sesamum(sesame,gingelly,til)",10181
+Tamil Nadu,Villupuram,black gram (urd beans)(whole),4802
+Tamil Nadu,Villupuram,groundnut,4080
+Tamil Nadu,Villupuram,kulthi(horse gram),2630
+Tamil Nadu,Villupuram,maize,2029
+Tamil Nadu,Villupuram,paddy(dhan)(common),1789
+Tamil Nadu,Villupuram,ragi (finger millet),1180
+Tamil Nadu,Villupuram,"sesamum(sesame,gingelly,til)",9391
+Tamil Nadu,Villupuram,groundnut,6724
+Tamil Nadu,Villupuram,hybrid cumbu,2222
+Tamil Nadu,Villupuram,karamani,6263
+Tamil Nadu,Villupuram,ragi (finger millet),2400
+Tamil Nadu,Villupuram,"sesamum(sesame,gingelly,til)",11261
+Tamil Nadu,Villupuram,paddy(dhan)(common),1376
+Tamil Nadu,Villupuram,paddy(dhan)(common),1395
+Tamil Nadu,Villupuram,black gram (urd beans)(whole),4779
+Tamil Nadu,Villupuram,cotton,4896
+Tamil Nadu,Villupuram,green gram (moong)(whole),5209
+Tamil Nadu,Villupuram,groundnut,5555
+Tamil Nadu,Villupuram,hybrid cumbu,1825
+Tamil Nadu,Villupuram,paddy(dhan)(common),1420
+Tamil Nadu,Villupuram,paddy(dhan)(common),1515
+Tamil Nadu,Villupuram,paddy(dhan)(common),1715
+Tamil Nadu,Villupuram,ragi (finger millet),2579
+Tamil Nadu,Villupuram,"sesamum(sesame,gingelly,til)",10049
+Tamil Nadu,Villupuram,thinai (italian millet),1205
+Tamil Nadu,Villupuram,black gram (urd beans)(whole),2619
+Tamil Nadu,Villupuram,green gram (moong)(whole),5109
+Tamil Nadu,Villupuram,groundnut,6584
+Tamil Nadu,Villupuram,paddy(dhan)(common),1424
+Tamil Nadu,Villupuram,paddy(dhan)(common),1431
+Tamil Nadu,Villupuram,paddy(dhan)(common),1643
+Tamil Nadu,Villupuram,paddy(dhan)(common),1420
+Tamil Nadu,Villupuram,paddy(dhan)(common),1655
+Tamil Nadu,Villupuram,"sesamum(sesame,gingelly,til)",11124
+Tamil Nadu,Villupuram,t.v. cumbu,1969
+Tamil Nadu,Virudhunagar,paddy(dhan)(common),1700
+Tamil Nadu,Virudhunagar,paddy(dhan)(common),1775
+Telangana,Hyderabad,dry chillies,7000
+Telangana,Hyderabad,dry chillies,4000
+Telangana,Karimnagar,cotton,6000
+Telangana,Karimnagar,mustard,4255
+Telangana,Karimnagar,cotton,5200
+Telangana,Khammam,wood,440
+Telangana,Nalgonda,paddy(dhan)(common),1750
+Telangana,Nalgonda,paddy(dhan)(common),1770
+Telangana,Nalgonda,paddy(dhan)(common),1770
+Telangana,Nizamabad,paddy(dhan)(common),1750
+Telangana,Ranga Reddy,brinjal,300
+Telangana,Ranga Reddy,cabbage,500
+Telangana,Ranga Reddy,cauliflower,650
+Telangana,Ranga Reddy,green chilli,1200
+Telangana,Ranga Reddy,tomato,300
+Tripura,North Tripura,masur dal,8500
+Tripura,North Tripura,rice,2600
+Tripura,Sepahijala,bitter gourd,7000
+Tripura,Sepahijala,brinjal,2000
+Tripura,Sepahijala,cabbage,900
+Tripura,Sepahijala,cauliflower,3000
+Tripura,Sepahijala,cucumbar(kheera),4000
+Tripura,Sepahijala,green chilli,6500
+Tripura,Sepahijala,papaya (raw),1800
+Tripura,Sepahijala,bitter gourd,7000
+Tripura,Sepahijala,brinjal,1500
+Tripura,Sepahijala,cabbage,700
+Tripura,Sepahijala,cauliflower,3000
+Tripura,Sepahijala,cucumbar(kheera),3500
+Tripura,Sepahijala,ginger(green),6500
+Tripura,Sepahijala,papaya (raw),1200
+Tripura,South District,onion,1850
+Tripura,South District,potato,750
+Uttar Pradesh,Agra,bajra(pearl millet/cumbu),1730
+Uttar Pradesh,Agra,banana,1550
+Uttar Pradesh,Agra,barley (jau),1830
+Uttar Pradesh,Agra,bottle gourd,1000
+Uttar Pradesh,Agra,brinjal,850
+Uttar Pradesh,Agra,cabbage,600
+Uttar Pradesh,Agra,carrot,460
+Uttar Pradesh,Agra,cauliflower,650
+Uttar Pradesh,Agra,ginger(green),4550
+Uttar Pradesh,Agra,green chilli,2250
+Uttar Pradesh,Agra,gur(jaggery),2570
+Uttar Pradesh,Agra,lemon,3000
+Uttar Pradesh,Agra,mustard,3400
+Uttar Pradesh,Agra,onion,800
+Uttar Pradesh,Agra,potato,530
+Uttar Pradesh,Agra,pumpkin,540
+Uttar Pradesh,Agra,raddish,650
+Uttar Pradesh,Agra,rice,2540
+Uttar Pradesh,Agra,spinach,650
+Uttar Pradesh,Agra,tomato,840
+Uttar Pradesh,Agra,wheat,1930
+Uttar Pradesh,Agra,apple,5850
+Uttar Pradesh,Agra,bajra(pearl millet/cumbu),1780
+Uttar Pradesh,Agra,banana,950
+Uttar Pradesh,Agra,barley (jau),1720
+Uttar Pradesh,Agra,bhindi(ladies finger),1820
+Uttar Pradesh,Agra,bottle gourd,1550
+Uttar Pradesh,Agra,brinjal,850
+Uttar Pradesh,Agra,cabbage,450
+Uttar Pradesh,Agra,cauliflower,650
+Uttar Pradesh,Agra,cucumbar(kheera),1550
+Uttar Pradesh,Agra,ginger(green),1820
+Uttar Pradesh,Agra,green chilli,1550
+Uttar Pradesh,Agra,guava,1520
+Uttar Pradesh,Agra,gur(jaggery),2820
+Uttar Pradesh,Agra,lemon,2550
+Uttar Pradesh,Agra,mousambi(sweet lime),2250
+Uttar Pradesh,Agra,mustard,3300
+Uttar Pradesh,Agra,onion,900
+Uttar Pradesh,Agra,papaya,1050
+Uttar Pradesh,Agra,potato,450
+Uttar Pradesh,Agra,pumpkin,850
+Uttar Pradesh,Agra,raddish,450
+Uttar Pradesh,Agra,rice,2300
+Uttar Pradesh,Agra,tomato,450
+Uttar Pradesh,Agra,wheat,1880
+Uttar Pradesh,Agra,apple,5550
+Uttar Pradesh,Agra,bajra(pearl millet/cumbu),1730
+Uttar Pradesh,Agra,banana,1530
+Uttar Pradesh,Agra,barley (jau),1800
+Uttar Pradesh,Agra,bhindi(ladies finger),3400
+Uttar Pradesh,Agra,bottle gourd,1000
+Uttar Pradesh,Agra,brinjal,850
+Uttar Pradesh,Agra,cabbage,550
+Uttar Pradesh,Agra,cauliflower,650
+Uttar Pradesh,Agra,green chilli,2250
+Uttar Pradesh,Agra,gur(jaggery),2580
+Uttar Pradesh,Agra,lemon,3000
+Uttar Pradesh,Agra,mustard,3450
+Uttar Pradesh,Agra,onion,850
+Uttar Pradesh,Agra,potato,540
+Uttar Pradesh,Agra,pumpkin,1150
+Uttar Pradesh,Agra,raddish,600
+Uttar Pradesh,Agra,rice,2540
+Uttar Pradesh,Agra,wheat,1930
+Uttar Pradesh,Agra,apple,5200
+Uttar Pradesh,Agra,bajra(pearl millet/cumbu),1760
+Uttar Pradesh,Agra,banana,1100
+Uttar Pradesh,Agra,bottle gourd,1000
+Uttar Pradesh,Agra,brinjal,1050
+Uttar Pradesh,Agra,cabbage,640
+Uttar Pradesh,Agra,carrot,580
+Uttar Pradesh,Agra,cauliflower,590
+Uttar Pradesh,Agra,ginger(green),2750
+Uttar Pradesh,Agra,green chilli,1080
+Uttar Pradesh,Agra,lemon,2050
+Uttar Pradesh,Agra,onion,850
+Uttar Pradesh,Agra,papaya,1040
+Uttar Pradesh,Agra,peas wet,780
+Uttar Pradesh,Agra,potato,500
+Uttar Pradesh,Agra,pumpkin,520
+Uttar Pradesh,Agra,raddish,350
+Uttar Pradesh,Agra,tomato,950
+Uttar Pradesh,Agra,wheat,1830
+Uttar Pradesh,Agra,apple,5550
+Uttar Pradesh,Agra,bajra(pearl millet/cumbu),1730
+Uttar Pradesh,Agra,banana,1540
+Uttar Pradesh,Agra,barley (jau),1820
+Uttar Pradesh,Agra,bhindi(ladies finger),3350
+Uttar Pradesh,Agra,bottle gourd,1000
+Uttar Pradesh,Agra,brinjal,850
+Uttar Pradesh,Agra,cabbage,550
+Uttar Pradesh,Agra,carrot,460
+Uttar Pradesh,Agra,cauliflower,650
+Uttar Pradesh,Agra,green chilli,2250
+Uttar Pradesh,Agra,gur(jaggery),2580
+Uttar Pradesh,Agra,lemon,3000
+Uttar Pradesh,Agra,mousambi(sweet lime),2650
+Uttar Pradesh,Agra,mustard,3400
+Uttar Pradesh,Agra,onion,800
+Uttar Pradesh,Agra,papaya,2150
+Uttar Pradesh,Agra,potato,530
+Uttar Pradesh,Agra,pumpkin,1150
+Uttar Pradesh,Agra,raddish,650
+Uttar Pradesh,Agra,rice,2540
+Uttar Pradesh,Agra,tomato,850
+Uttar Pradesh,Agra,wheat,1925
+Uttar Pradesh,Agra,bajra(pearl millet/cumbu),1850
+Uttar Pradesh,Agra,barley (jau),1850
+Uttar Pradesh,Agra,brinjal,600
+Uttar Pradesh,Agra,carrot,600
+Uttar Pradesh,Agra,cauliflower,500
+Uttar Pradesh,Agra,colacasia,2100
+Uttar Pradesh,Agra,green chilli,1200
+Uttar Pradesh,Agra,groundnut,5000
+Uttar Pradesh,Agra,gur(jaggery),5000
+Uttar Pradesh,Agra,mustard,3500
+Uttar Pradesh,Agra,onion,800
+Uttar Pradesh,Agra,peas wet,800
+Uttar Pradesh,Agra,potato,500
+Uttar Pradesh,Agra,raddish,500
+Uttar Pradesh,Agra,tomato,500
+Uttar Pradesh,Agra,wheat,2000
+Uttar Pradesh,Aligarh,bajra(pearl millet/cumbu),1840
+Uttar Pradesh,Aligarh,brinjal,440
+Uttar Pradesh,Aligarh,carrot,390
+Uttar Pradesh,Aligarh,cauliflower,490
+Uttar Pradesh,Aligarh,green chilli,790
+Uttar Pradesh,Aligarh,maize,1940
+Uttar Pradesh,Aligarh,potato,540
+Uttar Pradesh,Aligarh,pumpkin,740
+Uttar Pradesh,Aligarh,raddish,290
+Uttar Pradesh,Aligarh,tomato,990
+Uttar Pradesh,Allahabad,gur(jaggery),3000
+Uttar Pradesh,Allahabad,onion,650
+Uttar Pradesh,Allahabad,potato,600
+Uttar Pradesh,Baghpat,brinjal,1200
+Uttar Pradesh,Baghpat,carrot,500
+Uttar Pradesh,Baghpat,cauliflower,1200
+Uttar Pradesh,Baghpat,green chilli,2500
+Uttar Pradesh,Baghpat,onion,1000
+Uttar Pradesh,Baghpat,potato,600
+Uttar Pradesh,Baghpat,raddish,350
+Uttar Pradesh,Baghpat,tomato,1200
+Uttar Pradesh,Baghpat,apple,4900
+Uttar Pradesh,Baghpat,banana - green,1030
+Uttar Pradesh,Baghpat,bengal gram(gram)(whole),5100
+Uttar Pradesh,Baghpat,brinjal,750
+Uttar Pradesh,Baghpat,carrot,650
+Uttar Pradesh,Baghpat,cauliflower,750
+Uttar Pradesh,Baghpat,chikoos(sapota),2300
+Uttar Pradesh,Baghpat,cucumbar(kheera),850
+Uttar Pradesh,Baghpat,ginger(green),2700
+Uttar Pradesh,Baghpat,green chilli,1600
+Uttar Pradesh,Baghpat,guava,1400
+Uttar Pradesh,Baghpat,gur(jaggery),2500
+Uttar Pradesh,Baghpat,onion,900
+Uttar Pradesh,Baghpat,papaya,1100
+Uttar Pradesh,Baghpat,pomegranate,4300
+Uttar Pradesh,Baghpat,potato,650
+Uttar Pradesh,Baghpat,pumpkin,500
+Uttar Pradesh,Baghpat,raddish,500
+Uttar Pradesh,Baghpat,tomato,850
+Uttar Pradesh,Baghpat,wheat,1850
+Uttar Pradesh,Bahraich,gur(jaggery),2000
+Uttar Pradesh,Bahraich,paddy(dhan)(common),1500
+Uttar Pradesh,Bahraich,tomato,450
+Uttar Pradesh,Bahraich,paddy(dhan)(common),1510
+Uttar Pradesh,Bahraich,apple,5350
+Uttar Pradesh,Bahraich,banana,900
+Uttar Pradesh,Bahraich,bhindi(ladies finger),1150
+Uttar Pradesh,Bahraich,brinjal,500
+Uttar Pradesh,Bahraich,fish,4300
+Uttar Pradesh,Bahraich,grapes,4500
+Uttar Pradesh,Bahraich,green chilli,1500
+Uttar Pradesh,Bahraich,gur(jaggery),2500
+Uttar Pradesh,Bahraich,lemon,2350
+Uttar Pradesh,Bahraich,onion,785
+Uttar Pradesh,Bahraich,paddy(dhan)(common),1500
+Uttar Pradesh,Bahraich,potato,675
+Uttar Pradesh,Bahraich,rice,2150
+Uttar Pradesh,Bahraich,tomato,700
+Uttar Pradesh,Bahraich,wheat,1800
+Uttar Pradesh,Ballia,banana,1750
+Uttar Pradesh,Ballia,gur(jaggery),4300
+Uttar Pradesh,Ballia,onion,1150
+Uttar Pradesh,Ballia,potato,1050
+Uttar Pradesh,Ballia,rice,2100
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),apple,3500
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),kinnow,900
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),onion,700
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),pomegranate,3800
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),potato,400
+Uttar Pradesh,Bulandshahar,bajra(pearl millet/cumbu),1590
+Uttar Pradesh,Bulandshahar,banana,1190
+Uttar Pradesh,Bulandshahar,bhindi(ladies finger),590
+Uttar Pradesh,Bulandshahar,bottle gourd,690
+Uttar Pradesh,Bulandshahar,brinjal,580
+Uttar Pradesh,Bulandshahar,carrot,690
+Uttar Pradesh,Bulandshahar,cauliflower,590
+Uttar Pradesh,Bulandshahar,maize,1490
+Uttar Pradesh,Bulandshahar,mustard,3590
+Uttar Pradesh,Bulandshahar,onion,1190
+Uttar Pradesh,Bulandshahar,potato,590
+Uttar Pradesh,Bulandshahar,pumpkin,690
+Uttar Pradesh,Bulandshahar,tomato,690
+Uttar Pradesh,Bulandshahar,wheat,1735
+Uttar Pradesh,Bulandshahar,brinjal,445
+Uttar Pradesh,Bulandshahar,carrot,430
+Uttar Pradesh,Bulandshahar,cauliflower,410
+Uttar Pradesh,Bulandshahar,green chilli,1005
+Uttar Pradesh,Bulandshahar,guava,910
+Uttar Pradesh,Bulandshahar,onion,985
+Uttar Pradesh,Bulandshahar,potato,440
+Uttar Pradesh,Bulandshahar,raddish,220
+Uttar Pradesh,Bulandshahar,tomato,710
+Uttar Pradesh,Bulandshahar,carrot,460
+Uttar Pradesh,Bulandshahar,cauliflower,550
+Uttar Pradesh,Bulandshahar,green chilli,960
+Uttar Pradesh,Bulandshahar,gur(jaggery),2200
+Uttar Pradesh,Bulandshahar,onion,560
+Uttar Pradesh,Bulandshahar,potato,410
+Uttar Pradesh,Bulandshahar,tomato,860
+Uttar Pradesh,Chitrakut,arhar (tur/red gram)(whole),4475
+Uttar Pradesh,Chitrakut,bengal gram(gram)(whole),3875
+Uttar Pradesh,Chitrakut,mustard,3475
+Uttar Pradesh,Chitrakut,rice,1775
+Uttar Pradesh,Chitrakut,wheat,1925
+Uttar Pradesh,Etah,bajra(pearl millet/cumbu),1830
+Uttar Pradesh,Etah,banana - green,900
+Uttar Pradesh,Etah,brinjal,700
+Uttar Pradesh,Etah,carrot,500
+Uttar Pradesh,Etah,cauliflower,600
+Uttar Pradesh,Etah,colacasia,1100
+Uttar Pradesh,Etah,field pea,500
+Uttar Pradesh,Etah,garlic,800
+Uttar Pradesh,Etah,ginger(green),3900
+Uttar Pradesh,Etah,green chilli,1300
+Uttar Pradesh,Etah,mustard,3100
+Uttar Pradesh,Etah,onion,700
+Uttar Pradesh,Etah,potato,500
+Uttar Pradesh,Etah,tobacco,1900
+Uttar Pradesh,Etah,tomato,700
+Uttar Pradesh,Etah,wheat,1900
+Uttar Pradesh,Etawah,bajra(pearl millet/cumbu),1650
+Uttar Pradesh,Etawah,brinjal,600
+Uttar Pradesh,Etawah,carrot,750
+Uttar Pradesh,Etawah,cauliflower,450
+Uttar Pradesh,Etawah,green chilli,1250
+Uttar Pradesh,Etawah,green peas,650
+Uttar Pradesh,Etawah,guava,950
+Uttar Pradesh,Etawah,potato,400
+Uttar Pradesh,Etawah,pumpkin,550
+Uttar Pradesh,Etawah,raddish,500
+Uttar Pradesh,Etawah,tomato,700
+Uttar Pradesh,Farukhabad,maize,1650
+Uttar Pradesh,Farukhabad,potato,430
+Uttar Pradesh,Farukhabad,wheat,1870
+Uttar Pradesh,Fatehpur,potato,490
+Uttar Pradesh,Fatehpur,gur(jaggery),2500
+Uttar Pradesh,Fatehpur,paddy(dhan)(common),1750
+Uttar Pradesh,Fatehpur,wheat,1950
+Uttar Pradesh,Gautam Budh Nagar,brinjal,600
+Uttar Pradesh,Gautam Budh Nagar,cabbage,500
+Uttar Pradesh,Gautam Budh Nagar,carrot,400
+Uttar Pradesh,Gautam Budh Nagar,green chilli,900
+Uttar Pradesh,Gautam Budh Nagar,potato,500
+Uttar Pradesh,Gautam Budh Nagar,tomato,700
+Uttar Pradesh,Ghaziabad,apple,5850
+Uttar Pradesh,Ghaziabad,arhar dal(tur dal),6080
+Uttar Pradesh,Ghaziabad,banana,1260
+Uttar Pradesh,Ghaziabad,bengal gram(gram)(whole),5330
+Uttar Pradesh,Ghaziabad,black gram dal (urd dal),5500
+Uttar Pradesh,Ghaziabad,bottle gourd,1800
+Uttar Pradesh,Ghaziabad,brinjal,970
+Uttar Pradesh,Ghaziabad,cabbage,570
+Uttar Pradesh,Ghaziabad,green chilli,2500
+Uttar Pradesh,Ghaziabad,gur(jaggery),2260
+Uttar Pradesh,Ghaziabad,lemon,2750
+Uttar Pradesh,Ghaziabad,mousambi(sweet lime),2680
+Uttar Pradesh,Ghaziabad,mustard,4100
+Uttar Pradesh,Ghaziabad,mustard oil,9250
+Uttar Pradesh,Ghaziabad,onion,760
+Uttar Pradesh,Ghaziabad,papaya,1300
+Uttar Pradesh,Ghaziabad,potato,610
+Uttar Pradesh,Ghaziabad,raddish,280
+Uttar Pradesh,Ghaziabad,rice,2670
+Uttar Pradesh,Ghaziabad,sugar,3380
+Uttar Pradesh,Ghaziabad,tomato,970
+Uttar Pradesh,Ghaziabad,wheat,1980
+Uttar Pradesh,Jalaun (Orai),wheat,1980
+Uttar Pradesh,Jalaun (Orai),wheat,1775
+Uttar Pradesh,Jhansi,colacasia,2245
+Uttar Pradesh,Jhansi,ginger(green),3245
+Uttar Pradesh,Jhansi,black gram (urd beans)(whole),3600
+Uttar Pradesh,Jhansi,groundnut,3150
+Uttar Pradesh,Jhansi,wheat,1825
+Uttar Pradesh,Kannuj,apple,6500
+Uttar Pradesh,Kannuj,arhar dal(tur dal),6800
+Uttar Pradesh,Kannuj,banana,2200
+Uttar Pradesh,Kannuj,bengal gram(gram)(whole),4600
+Uttar Pradesh,Kannuj,black gram dal (urd dal),6500
+Uttar Pradesh,Kannuj,brinjal,800
+Uttar Pradesh,Kannuj,cabbage,470
+Uttar Pradesh,Kannuj,cauliflower,480
+Uttar Pradesh,Kannuj,green chilli,2100
+Uttar Pradesh,Kannuj,gur(jaggery),2400
+Uttar Pradesh,Kannuj,maize,1800
+Uttar Pradesh,Kannuj,mustard,3400
+Uttar Pradesh,Kannuj,mustard oil,9000
+Uttar Pradesh,Kannuj,onion,800
+Uttar Pradesh,Kannuj,paddy(dhan)(common),2400
+Uttar Pradesh,Kannuj,peas cod,1000
+Uttar Pradesh,Kannuj,potato,480
+Uttar Pradesh,Kannuj,rice,2500
+Uttar Pradesh,Kannuj,tomato,780
+Uttar Pradesh,Kannuj,wheat,2040
+Uttar Pradesh,Kanpur,apple,5800
+Uttar Pradesh,Kanpur,bajra(pearl millet/cumbu),1400
+Uttar Pradesh,Kanpur,banana,2800
+Uttar Pradesh,Kanpur,barley (jau),1400
+Uttar Pradesh,Kanpur,bottle gourd,900
+Uttar Pradesh,Kanpur,brinjal,1000
+Uttar Pradesh,Kanpur,cabbage,900
+Uttar Pradesh,Kanpur,cauliflower,900
+Uttar Pradesh,Kanpur,ghee,29000
+Uttar Pradesh,Kanpur,green chilli,500
+Uttar Pradesh,Kanpur,green gram (moong)(whole),5800
+Uttar Pradesh,Kanpur,guava,900
+Uttar Pradesh,Kanpur,jowar(sorghum),1400
+Uttar Pradesh,Kanpur,maize,1500
+Uttar Pradesh,Kanpur,mustard,3800
+Uttar Pradesh,Kanpur,onion,900
+Uttar Pradesh,Kanpur,paddy(dhan)(basmati),1775
+Uttar Pradesh,Kanpur,paddy(dhan)(common),1752
+Uttar Pradesh,Kanpur,potato,900
+Uttar Pradesh,Kanpur,pumpkin,1400
+Uttar Pradesh,Kanpur,raddish,900
+Uttar Pradesh,Kanpur,tomato,900
+Uttar Pradesh,Kanpur,wheat,1800
+Uttar Pradesh,Kanpur,wood,500
+Uttar Pradesh,Khiri (Lakhimpur),onion,900
+Uttar Pradesh,Khiri (Lakhimpur),potato,440
+Uttar Pradesh,Khiri (Lakhimpur),tomato,850
+Uttar Pradesh,Khiri (Lakhimpur),gur(jaggery),3100
+Uttar Pradesh,Khiri (Lakhimpur),gur(jaggery),500
+Uttar Pradesh,Khiri (Lakhimpur),gur(jaggery),2100
+Uttar Pradesh,Khiri (Lakhimpur),pumpkin,350
+Uttar Pradesh,Khiri (Lakhimpur),white pumpkin,310
+Uttar Pradesh,Lakhimpur,apple,6410
+Uttar Pradesh,Lakhimpur,arhar dal(tur dal),6380
+Uttar Pradesh,Lakhimpur,banana,1785
+Uttar Pradesh,Lakhimpur,banana - green,670
+Uttar Pradesh,Lakhimpur,bottle gourd,1050
+Uttar Pradesh,Lakhimpur,brinjal,960
+Uttar Pradesh,Lakhimpur,cabbage,700
+Uttar Pradesh,Lakhimpur,capsicum,1720
+Uttar Pradesh,Lakhimpur,cauliflower,710
+Uttar Pradesh,Lakhimpur,field pea,860
+Uttar Pradesh,Lakhimpur,garlic,2540
+Uttar Pradesh,Lakhimpur,ginger(green),3540
+Uttar Pradesh,Lakhimpur,grapes,4240
+Uttar Pradesh,Lakhimpur,green chilli,1890
+Uttar Pradesh,Lakhimpur,gur(jaggery),2430
+Uttar Pradesh,Lakhimpur,mustard,3085
+Uttar Pradesh,Lakhimpur,mustard oil,9245
+Uttar Pradesh,Lakhimpur,onion,850
+Uttar Pradesh,Lakhimpur,orange,1750
+Uttar Pradesh,Lakhimpur,pomegranate,4140
+Uttar Pradesh,Lakhimpur,potato,500
+Uttar Pradesh,Lakhimpur,pumpkin,1120
+Uttar Pradesh,Lakhimpur,rice,2250
+Uttar Pradesh,Lakhimpur,sugar,3440
+Uttar Pradesh,Lakhimpur,tomato,690
+Uttar Pradesh,Lakhimpur,wheat,1845
+Uttar Pradesh,Mahoba,bengal gram(gram)(whole),4050
+Uttar Pradesh,Mahoba,black gram (urd beans)(whole),3750
+Uttar Pradesh,Mahoba,mustard,3450
+Uttar Pradesh,Mahoba,wheat,1825
+Uttar Pradesh,Mau(Maunathbhanjan),arhar dal(tur dal),6200
+Uttar Pradesh,Mau(Maunathbhanjan),rice,2000
+Uttar Pradesh,Mau(Maunathbhanjan),wheat,1735
+Uttar Pradesh,Mirzapur,apple,6250
+Uttar Pradesh,Mirzapur,arhar dal(tur dal),6875
+Uttar Pradesh,Mirzapur,bengal gram dal (chana dal),5430
+Uttar Pradesh,Mirzapur,bengal gram(gram)(whole),5010
+Uttar Pradesh,Mirzapur,black gram dal (urd dal),6430
+Uttar Pradesh,Mirzapur,bottle gourd,980
+Uttar Pradesh,Mirzapur,brinjal,820
+Uttar Pradesh,Mirzapur,garlic,2000
+Uttar Pradesh,Mirzapur,ginger(green),5360
+Uttar Pradesh,Mirzapur,green chilli,1500
+Uttar Pradesh,Mirzapur,gur(jaggery),3170
+Uttar Pradesh,Mirzapur,lentil (masur)(whole),4410
+Uttar Pradesh,Mirzapur,mustard,4090
+Uttar Pradesh,Mirzapur,mustard oil,9880
+Uttar Pradesh,Mirzapur,onion,860
+Uttar Pradesh,Mirzapur,peas(dry),4880
+Uttar Pradesh,Mirzapur,potato,600
+Uttar Pradesh,Mirzapur,rice,2320
+Uttar Pradesh,Mirzapur,tomato,500
+Uttar Pradesh,Mirzapur,wheat,1950
+Uttar Pradesh,Muradabad,apple,4130
+Uttar Pradesh,Muradabad,banana - green,360
+Uttar Pradesh,Muradabad,brinjal,460
+Uttar Pradesh,Muradabad,cabbage,260
+Uttar Pradesh,Muradabad,onion,530
+Uttar Pradesh,Muradabad,paddy(dhan)(common),1932
+Uttar Pradesh,Muradabad,peas(dry),400
+Uttar Pradesh,Muradabad,potato,460
+Uttar Pradesh,Muradabad,tomato,450
+Uttar Pradesh,Muzaffarnagar,apple,5820
+Uttar Pradesh,Muzaffarnagar,banana - green,1310
+Uttar Pradesh,Muzaffarnagar,barley (jau),1940
+Uttar Pradesh,Muzaffarnagar,bottle gourd,1280
+Uttar Pradesh,Muzaffarnagar,brinjal,1030
+Uttar Pradesh,Muzaffarnagar,carrot,630
+Uttar Pradesh,Muzaffarnagar,cauliflower,700
+Uttar Pradesh,Muzaffarnagar,garlic,2090
+Uttar Pradesh,Muzaffarnagar,green chilli,2260
+Uttar Pradesh,Muzaffarnagar,gur(jaggery),2510
+Uttar Pradesh,Muzaffarnagar,lemon,2660
+Uttar Pradesh,Muzaffarnagar,maize,1930
+Uttar Pradesh,Muzaffarnagar,mousambi(sweet lime),2610
+Uttar Pradesh,Muzaffarnagar,mustard,4100
+Uttar Pradesh,Muzaffarnagar,mustard oil,9270
+Uttar Pradesh,Muzaffarnagar,onion,890
+Uttar Pradesh,Muzaffarnagar,papaya,1170
+Uttar Pradesh,Muzaffarnagar,potato,615
+Uttar Pradesh,Muzaffarnagar,pumpkin,800
+Uttar Pradesh,Muzaffarnagar,rice,2700
+Uttar Pradesh,Muzaffarnagar,tomato,1070
+Uttar Pradesh,Muzaffarnagar,wheat,1965
+Uttar Pradesh,Muzaffarnagar,apple,2600
+Uttar Pradesh,Muzaffarnagar,bottle gourd,420
+Uttar Pradesh,Muzaffarnagar,carrot,490
+Uttar Pradesh,Muzaffarnagar,green chilli,1005
+Uttar Pradesh,Muzaffarnagar,gur(jaggery),2240
+Uttar Pradesh,Muzaffarnagar,onion,980
+Uttar Pradesh,Muzaffarnagar,plum,570
+Uttar Pradesh,Muzaffarnagar,pumpkin,400
+Uttar Pradesh,Muzaffarnagar,raddish,330
+Uttar Pradesh,Muzaffarnagar,rice,3900
+Uttar Pradesh,Muzaffarnagar,wheat,1900
+Uttar Pradesh,Muzaffarnagar,ber(zizyphus/borehannu),1150
+Uttar Pradesh,Muzaffarnagar,bhindi(ladies finger),1150
+Uttar Pradesh,Muzaffarnagar,brinjal,440
+Uttar Pradesh,Muzaffarnagar,carrot,440
+Uttar Pradesh,Muzaffarnagar,cauliflower,340
+Uttar Pradesh,Muzaffarnagar,cucumbar(kheera),900
+Uttar Pradesh,Muzaffarnagar,green chilli,1100
+Uttar Pradesh,Muzaffarnagar,green peas,1100
+Uttar Pradesh,Muzaffarnagar,lemon,3100
+Uttar Pradesh,Muzaffarnagar,onion,1100
+Uttar Pradesh,Muzaffarnagar,papaya,900
+Uttar Pradesh,Muzaffarnagar,potato,440
+Uttar Pradesh,Muzaffarnagar,pumpkin,470
+Uttar Pradesh,Muzaffarnagar,raddish,260
+Uttar Pradesh,Muzaffarnagar,tomato,900
+Uttar Pradesh,Muzaffarnagar,wood,295
+Uttar Pradesh,Raebarelli,paddy(dhan)(common),1750
+Uttar Pradesh,Raebarelli,potato,500
+Uttar Pradesh,Rampur,mustard,3350
+Uttar Pradesh,Rampur,potato,495
+Uttar Pradesh,Rampur,wheat,1905
+Uttar Pradesh,Saharanpur,apple,3950
+Uttar Pradesh,Saharanpur,banana,1200
+Uttar Pradesh,Saharanpur,cabbage,520
+Uttar Pradesh,Saharanpur,carrot,500
+Uttar Pradesh,Saharanpur,ginger(green),3800
+Uttar Pradesh,Saharanpur,green chilli,2250
+Uttar Pradesh,Saharanpur,onion,1050
+Uttar Pradesh,Saharanpur,peas cod,900
+Uttar Pradesh,Saharanpur,potato,560
+Uttar Pradesh,Saharanpur,raddish,420
+Uttar Pradesh,Saharanpur,tomato,1120
+Uttar Pradesh,Saharanpur,bottle gourd,600
+Uttar Pradesh,Saharanpur,brinjal,500
+Uttar Pradesh,Saharanpur,carrot,360
+Uttar Pradesh,Saharanpur,cauliflower,250
+Uttar Pradesh,Saharanpur,cucumbar(kheera),700
+Uttar Pradesh,Saharanpur,ginger(green),3200
+Uttar Pradesh,Saharanpur,green chilli,1300
+Uttar Pradesh,Saharanpur,onion,500
+Uttar Pradesh,Saharanpur,papaya (raw),700
+Uttar Pradesh,Saharanpur,potato,280
+Uttar Pradesh,Saharanpur,tomato,500
+Uttar Pradesh,Saharanpur,apple,6475
+Uttar Pradesh,Saharanpur,banana,1165
+Uttar Pradesh,Saharanpur,brinjal,660
+Uttar Pradesh,Saharanpur,cabbage,450
+Uttar Pradesh,Saharanpur,carrot,445
+Uttar Pradesh,Saharanpur,field pea,1360
+Uttar Pradesh,Saharanpur,garlic,1890
+Uttar Pradesh,Saharanpur,ginger(green),2745
+Uttar Pradesh,Saharanpur,green chilli,2040
+Uttar Pradesh,Saharanpur,guava,1945
+Uttar Pradesh,Saharanpur,gur(jaggery),2450
+Uttar Pradesh,Saharanpur,onion,1440
+Uttar Pradesh,Saharanpur,papaya,1745
+Uttar Pradesh,Saharanpur,potato,545
+Uttar Pradesh,Saharanpur,pumpkin,650
+Uttar Pradesh,Saharanpur,raddish,295
+Uttar Pradesh,Saharanpur,sweet potato,1145
+Uttar Pradesh,Saharanpur,tomato,1340
+Uttar Pradesh,Saharanpur,wheat,1760
+Uttar Pradesh,Saharanpur,wood,440
+Uttar Pradesh,Saharanpur,banana - green,1100
+Uttar Pradesh,Saharanpur,cabbage,450
+Uttar Pradesh,Saharanpur,cauliflower,440
+Uttar Pradesh,Saharanpur,green peas,1150
+Uttar Pradesh,Saharanpur,onion,1120
+Uttar Pradesh,Saharanpur,potato,540
+Uttar Pradesh,Saharanpur,raddish,360
+Uttar Pradesh,Saharanpur,wood,280
+Uttar Pradesh,Saharanpur,apple,4900
+Uttar Pradesh,Saharanpur,banana,1300
+Uttar Pradesh,Saharanpur,banana - green,1000
+Uttar Pradesh,Saharanpur,bottle gourd,850
+Uttar Pradesh,Saharanpur,brinjal,950
+Uttar Pradesh,Saharanpur,cabbage,400
+Uttar Pradesh,Saharanpur,carrot,500
+Uttar Pradesh,Saharanpur,green chilli,1250
+Uttar Pradesh,Saharanpur,groundnut,4900
+Uttar Pradesh,Saharanpur,guava,1400
+Uttar Pradesh,Saharanpur,mustard,4000
+Uttar Pradesh,Saharanpur,onion,1100
+Uttar Pradesh,Saharanpur,papaya,1300
+Uttar Pradesh,Saharanpur,peas wet,1000
+Uttar Pradesh,Saharanpur,potato,500
+Uttar Pradesh,Saharanpur,pumpkin,400
+Uttar Pradesh,Saharanpur,raddish,400
+Uttar Pradesh,Saharanpur,tomato,1000
+Uttar Pradesh,Saharanpur,wheat,1900
+Uttar Pradesh,Saharanpur,wood,450
+Uttar Pradesh,Saharanpur,banana - green,700
+Uttar Pradesh,Saharanpur,bottle gourd,800
+Uttar Pradesh,Saharanpur,brinjal,700
+Uttar Pradesh,Saharanpur,carrot,450
+Uttar Pradesh,Saharanpur,cauliflower,500
+Uttar Pradesh,Saharanpur,green chilli,1200
+Uttar Pradesh,Saharanpur,green peas,800
+Uttar Pradesh,Saharanpur,onion,700
+Uttar Pradesh,Saharanpur,papaya,800
+Uttar Pradesh,Shahjahanpur,brinjal,470
+Uttar Pradesh,Shahjahanpur,cauliflower,400
+Uttar Pradesh,Shahjahanpur,colacasia,1550
+Uttar Pradesh,Shahjahanpur,potato,460
+Uttar Pradesh,Shahjahanpur,raddish,320
+Uttar Pradesh,Shahjahanpur,tomato,700
+Uttar Pradesh,Sitapur,gur(jaggery),2050
+Uttar Pradesh,Sitapur,lentil (masur)(whole),4250
+Uttar Pradesh,Sitapur,onion,700
+Uttar Pradesh,Sitapur,potato,600
+Uttar Pradesh,Sitapur,wheat,1750
+Uttar Pradesh,Sitapur,wood,240
+Uttar Pradesh,Sonbhadra,cauliflower,500
+Uttar Pradesh,Sonbhadra,peas wet,800
+Uttar Pradesh,Sonbhadra,raddish,600
+Uttar Pradesh,Sonbhadra,arhar dal(tur dal),6715
+Uttar Pradesh,Sonbhadra,barley (jau),1700
+Uttar Pradesh,Sonbhadra,bengal gram(gram)(whole),5075
+Uttar Pradesh,Sonbhadra,bottle gourd,885
+Uttar Pradesh,Sonbhadra,brinjal,785
+Uttar Pradesh,Sonbhadra,cauliflower,490
+Uttar Pradesh,Sonbhadra,garlic,1810
+Uttar Pradesh,Sonbhadra,green chilli,1650
+Uttar Pradesh,Sonbhadra,gur(jaggery),3220
+Uttar Pradesh,Sonbhadra,mustard,4035
+Uttar Pradesh,Sonbhadra,onion,815
+Uttar Pradesh,Sonbhadra,potato,660
+Uttar Pradesh,Sonbhadra,rice,2240
+Uttar Pradesh,Sonbhadra,tomato,475
+Uttar Pradesh,Sonbhadra,wheat,1910
+Uttrakhand,Dehradoon,apple,3050
+Uttrakhand,Dehradoon,banana,750
+Uttrakhand,Dehradoon,cabbage,400
+Uttrakhand,Dehradoon,carrot,700
+Uttrakhand,Dehradoon,cauliflower,550
+Uttrakhand,Dehradoon,garlic,1350
+Uttrakhand,Dehradoon,grapes,1800
+Uttrakhand,Dehradoon,green chilli,850
+Uttrakhand,Dehradoon,kinnow,750
+Uttrakhand,Dehradoon,lemon,1350
+Uttrakhand,Dehradoon,onion,1150
+Uttrakhand,Dehradoon,orange,1800
+Uttrakhand,Dehradoon,papaya,700
+Uttrakhand,Dehradoon,peas wet,1150
+Uttrakhand,Dehradoon,pomegranate,3500
+Uttrakhand,Dehradoon,potato,550
+Uttrakhand,Dehradoon,pumpkin,450
+Uttrakhand,Dehradoon,raddish,300
+Uttrakhand,Dehradoon,tomato,500
+Uttrakhand,UdhamSinghNagar,onion,975
+Uttrakhand,UdhamSinghNagar,potato,600
+West Bengal,Bankura,mustard,4200
+West Bengal,Bankura,onion,1150
+West Bengal,Bankura,potato,380
+West Bengal,Bankura,rice,2650
+West Bengal,Bankura,rice,2850
+West Bengal,Bankura,wheat,1700
+West Bengal,Bankura,brinjal,500
+West Bengal,Bankura,cucumbar(kheera),2500
+West Bengal,Bankura,mustard,4200
+West Bengal,Bankura,paddy(dhan)(common),1750
+West Bengal,Bankura,potato,370
+West Bengal,Bankura,rice,2650
+West Bengal,Bankura,sweet pumpkin,900
+West Bengal,Bankura,tomato,500
+West Bengal,Bankura,wheat,1700
+West Bengal,Burdwan,arhar (tur/red gram)(whole),6400
+West Bengal,Burdwan,black gram (urd beans)(whole),6100
+West Bengal,Burdwan,black gram (urd beans)(whole),5900
+West Bengal,Burdwan,brinjal,1100
+West Bengal,Burdwan,ginger(dry),7360
+West Bengal,Burdwan,green gram (moong)(whole),7500
+West Bengal,Burdwan,green gram (moong)(whole),7000
+West Bengal,Burdwan,lentil (masur)(whole),6100
+West Bengal,Burdwan,mustard,4350
+West Bengal,Burdwan,onion,1020
+West Bengal,Burdwan,peas(dry),4900
+West Bengal,Burdwan,peas(dry),4600
+West Bengal,Burdwan,potato,560
+West Bengal,Burdwan,rice,3000
+West Bengal,Burdwan,sweet pumpkin,910
+West Bengal,Burdwan,tomato,560
+West Bengal,Burdwan,wheat,2000
+West Bengal,Burdwan,cucumbar(kheera),4000
+West Bengal,Burdwan,green chilli,7000
+West Bengal,Burdwan,gur(jaggery),3100
+West Bengal,Burdwan,mustard,4300
+West Bengal,Burdwan,onion,1000
+West Bengal,Burdwan,paddy(dhan)(common),1750
+West Bengal,Burdwan,potato,600
+West Bengal,Burdwan,rice,2300
+West Bengal,Burdwan,sweet pumpkin,1000
+West Bengal,Burdwan,tomato,800
+West Bengal,Burdwan,brinjal,800
+West Bengal,Burdwan,mustard,3800
+West Bengal,Burdwan,paddy(dhan)(common),1750
+West Bengal,Burdwan,potato,500
+West Bengal,Burdwan,rice,2300
+West Bengal,Burdwan,"sesamum(sesame,gingelly,til)",7000
+West Bengal,Burdwan,brinjal,900
+West Bengal,Burdwan,cucumbar(kheera),3600
+West Bengal,Burdwan,green chilli,3800
+West Bengal,Burdwan,jute,3900
+West Bengal,Burdwan,onion,1100
+West Bengal,Burdwan,paddy(dhan)(common),1770
+West Bengal,Burdwan,paddy(dhan)(common),1750
+West Bengal,Burdwan,potato,510
+West Bengal,Burdwan,rice,3000
+West Bengal,Burdwan,rice,2250
+West Bengal,Burdwan,sweet pumpkin,1100
+West Bengal,Burdwan,tomato,1050
+West Bengal,Burdwan,ginger(dry),8000
+West Bengal,Burdwan,jute,3900
+West Bengal,Burdwan,mustard,3800
+West Bengal,Burdwan,mustard oil,9925
+West Bengal,Burdwan,onion,1000
+West Bengal,Burdwan,paddy(dhan)(common),1750
+West Bengal,Burdwan,potato,500
+West Bengal,Burdwan,rice,2300
+West Bengal,Burdwan,"sesamum(sesame,gingelly,til)",7100
+West Bengal,Burdwan,bitter gourd,5000
+West Bengal,Burdwan,brinjal,1200
+West Bengal,Burdwan,cucumbar(kheera),3200
+West Bengal,Hooghly,potato,480
+West Bengal,Hooghly,rice,2850
+West Bengal,Jalpaiguri,bitter gourd,4900
+West Bengal,Jalpaiguri,brinjal,750
+West Bengal,Jalpaiguri,cabbage,500
+West Bengal,Jalpaiguri,cauliflower,650
+West Bengal,Jalpaiguri,cucumbar(kheera),3200
+West Bengal,Jalpaiguri,green chilli,2600
+West Bengal,Jalpaiguri,potato,525
+West Bengal,Jalpaiguri,sweet pumpkin,1200
+West Bengal,Jalpaiguri,tomato,900
+West Bengal,Malda,jute,3800
+West Bengal,Malda,mustard,4000
+West Bengal,Malda,mustard,4100
+West Bengal,Malda,onion,750
+West Bengal,Malda,potato,475
+West Bengal,Malda,rice,3200
+West Bengal,Malda,rice,2700
+West Bengal,Medinipur(W),gur(jaggery),2950
+West Bengal,Medinipur(W),jute,4100
+West Bengal,Medinipur(W),mustard,4200
+West Bengal,Medinipur(W),potato,350
+West Bengal,Medinipur(W),rice,2550
+West Bengal,Medinipur(W),rice,2400
+West Bengal,Medinipur(W),"sesamum(sesame,gingelly,til)",8600
+West Bengal,Murshidabad,jute,4300
+West Bengal,Murshidabad,potato,400
+West Bengal,Murshidabad,rice,2700
+West Bengal,Murshidabad,jute,3800
+West Bengal,Murshidabad,onion,860
+West Bengal,Murshidabad,paddy(dhan)(common),1780
+West Bengal,Murshidabad,potato,530
+West Bengal,Murshidabad,rice,2900
+West Bengal,Murshidabad,turmeric,7325
+West Bengal,Murshidabad,wheat,2000
+West Bengal,Nadia,brinjal,1500
+West Bengal,Nadia,green chilli,5000
+West Bengal,Nadia,jute,4300
+West Bengal,Nadia,mustard,4100
+West Bengal,Nadia,onion,1200
+West Bengal,Nadia,paddy(dhan)(common),1770
+West Bengal,Nadia,potato,580
+West Bengal,Nadia,rice,3800
+West Bengal,Nadia,sweet pumpkin,1400
+West Bengal,North 24 Parganas,bitter gourd,6500
+West Bengal,North 24 Parganas,brinjal,1600
+West Bengal,North 24 Parganas,green chilli,5600
+West Bengal,North 24 Parganas,onion,1000
+West Bengal,North 24 Parganas,papaya (raw),800
+West Bengal,North 24 Parganas,potato,560
+West Bengal,North 24 Parganas,pumpkin,1500
+West Bengal,North 24 Parganas,tomato,1400
+West Bengal,Puruliya,bhindi(ladies finger),3300
+West Bengal,Puruliya,brinjal,1300
+West Bengal,Puruliya,lentil (masur)(whole),5450
+West Bengal,Puruliya,mustard oil,9940
+West Bengal,Puruliya,onion,1000
+West Bengal,Puruliya,potato,380
+West Bengal,Puruliya,rice,2640
+West Bengal,Puruliya,ridgeguard(tori),3300
+West Bengal,Puruliya,tomato,300
+West Bengal,Puruliya,arhar dal(tur dal),6000
+West Bengal,Puruliya,brinjal,1200
+West Bengal,Puruliya,gur(jaggery),2600
+West Bengal,Puruliya,masur dal,6300
+West Bengal,Puruliya,moath dal,7400
+West Bengal,Puruliya,mustard oil,10530
+West Bengal,Puruliya,onion,1000
+West Bengal,Puruliya,potato,420
+West Bengal,Puruliya,pumpkin,900
+West Bengal,Puruliya,rice,2600
+West Bengal,Puruliya,tomato,900
+West Bengal,Sounth 24 Parganas,bitter gourd,4000
+West Bengal,Sounth 24 Parganas,brinjal,2250
+West Bengal,Sounth 24 Parganas,cucumbar(kheera),5400
+West Bengal,Sounth 24 Parganas,green chilli,7600
+West Bengal,Sounth 24 Parganas,guava,4800
+West Bengal,Sounth 24 Parganas,onion,1300
+West Bengal,Sounth 24 Parganas,papaya (raw),1400
+West Bengal,Sounth 24 Parganas,potato,700
+West Bengal,Sounth 24 Parganas,rice,2800
+West Bengal,Sounth 24 Parganas,rice,4400
+West Bengal,Sounth 24 Parganas,sweet pumpkin,1500
+West Bengal,Sounth 24 Parganas,tomato,1300
+West Bengal,Uttar Dinajpur,jute,4600
+West Bengal,Uttar Dinajpur,potato,550
+West Bengal,Uttar Dinajpur,rice,3600
+West Bengal,Uttar Dinajpur,jute,4500
+West Bengal,Uttar Dinajpur,rice,3500
+West Bengal,Uttar Dinajpur,wheat,2100

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crop Recommendation System</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: url("/static/bg.webp") no-repeat center center fixed;
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            max-width: 500px;
+            width: 90%;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 25px;
+        }
+
+        label {
+            display: block;
+            margin-top: 15px;
+            color: #444;
+            font-weight: 600;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+
+        input[type="submit"] {
+            width: 100%;
+            margin-top: 25px;
+            padding: 12px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        input[type="submit"]:hover {
+            background: #218838;
+        }
+
+        .results {
+            margin-top: 30px;
+        }
+
+        .crop-card {
+            background: #f9f9f9;
+            border-radius: 10px;
+            padding: 15px 20px;
+            margin-bottom: 15px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+
+        .crop-name {
+            font-size: 18px;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .crop-price {
+            font-size: 16px;
+            color: #666;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 30px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌾 Crop Recommendation</h1>
+        <form method="POST">
+            <label for="N">Nitrogen (N)</label>
+            <input type="number" step="any" name="N" required>
+
+            <label for="P">Phosphorus (P)</label>
+            <input type="number" step="any" name="P" required>
+
+            <label for="K">Potassium (K)</label>
+            <input type="number" step="any" name="K" required>
+
+            <label for="pH">pH Level</label>
+            <input type="number" step="any" name="pH" required>
+
+            <input type="submit" value="🌱 Predict Best Crops">
+        </form>
+
+        {% if results %}
+        <div class="results">
+            <h2>Top Recommended Crops:</h2>
+            {% for crop, price in results %}
+                <div class="crop-card">
+                    <div class="crop-name">{{ crop }}</div>
+                    <div class="crop-price">Avg Modal Price: ₹{{ "%.2f"|format(price) }}</div>
+                </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
